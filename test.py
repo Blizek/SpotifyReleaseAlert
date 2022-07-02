@@ -4,11 +4,11 @@ from spotipy.oauth2 import SpotifyClientCredentials
 uri = 'spotify:artist:0MIG6gMcQTSvFbKvUwK0id'
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
-albums = spotify.artist_albums(uri, 'album', limit=50)['items'][1:]
-songs = spotify.artist_albums(uri, 'single', limit=50)['items'][8:]
+albums = spotify.artist_albums(uri, 'album', limit=50)['items']
+songs = spotify.artist_albums(uri, 'single', limit=50)['items']
 appears_on = spotify.artist_albums(uri, 'appears_on', limit=50)['items']
 
-uri_bialas = "spotify:artist:0MIG6gMcQTSvFbKvUwK0id"
+uri_bialas = "spotify:artist:7CJgLPEqiIRuneZSolpawQ"
 album = spotify.artist_albums(uri_bialas, 'album', limit=50)['items']
 song = spotify.artist_albums(uri_bialas, 'single', limit=50)['items']
 appear_on = spotify.artist_albums(uri_bialas, 'appears_on', limit=50)['items']
