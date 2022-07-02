@@ -24,6 +24,7 @@ def add(uri):
             'artists': [
                 artist['name'] for artist in album['artists']
             ],
+            'link': album["external_urls"]['spotify'],
             'name': album['name'],
             'uri': album['uri']
         }
@@ -35,6 +36,7 @@ def add(uri):
             'artists': [
                 artist['name'] for artist in song['artists']
             ],
+            'link': song["external_urls"]['spotify'],
             'name': song['name'],
             'uri': song['uri']
         }
@@ -47,13 +49,14 @@ def add(uri):
             'artists': [
                 artist['name'] for artist in appear_on['artists']
             ],
+            'link': appear_on["external_urls"]['spotify'],
             'name': appear_on['name'],
             'uri': appear_on['uri']
         }
 
         converted_appears_on.append(new_appear_on_data)
 
-    x = {
+    new_artist_data = {
         'artist_uri': uri,
         'artist_name': artist_name,
         'artist_album': converted_albums,
@@ -61,7 +64,7 @@ def add(uri):
         'artist_appears_on': converted_appears_on
     }
 
-    data_list.append(x)
+    data_list.append(new_artist_data)
 
     with open("data.json", 'w') as json_file:
         json.dump(data_list, json_file,

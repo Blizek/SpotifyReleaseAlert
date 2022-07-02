@@ -1,90 +1,96 @@
 [
     {
-        "artist_uri": "spotify:artist:1fxbULcd6ryMNc1usHoP0R",
-        "artist_name": "Quebonafide",
+        "artist_uri": "spotify:artist:4nPxrGG7k7aEKmNLsfX4cd",
+        "artist_name": "White 2115",
         "artist_album": [
             {
                 "artists": [
-                    "Quebonafide"
+                    "White 2115"
                 ],
-                "name": "ROMANTIC PSYCHO",
-                "uri": "spotify:album:759DXZci5lU5Lx0eXVMjVK"
+                "link": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ",
+                "name": "Pretty Boy",
+                "uri": "spotify:album:01S7gAvH21k1qlD2jilmPQ"
             },
             {
                 "artists": [
-                    "TACONAFIDE",
-                    "Quebonafide",
-                    "Taco Hemingway"
+                    "Bia\u0142as",
+                    "White 2115"
                 ],
-                "name": "0,25 mg",
-                "uri": "spotify:album:1OSThsZztBE3D9TTG7bm0s"
+                "link": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs",
+                "name": "Diamentowy Las",
+                "uri": "spotify:album:6g3muQtUCpAByNLWl4eFRs"
             },
             {
                 "artists": [
-                    "TACONAFIDE",
-                    "Quebonafide",
-                    "Taco Hemingway"
+                    "White 2115"
                 ],
-                "name": "Soma 0,5 mg",
-                "uri": "spotify:album:5OGcPC39VfTatSWprS0RGe"
+                "link": "https://open.spotify.com/album/00sdJjCC3eeyzvvvxUPB7J",
+                "name": "Rockstar: Do zachodu s\u0142o\u0144ca",
+                "uri": "spotify:album:00sdJjCC3eeyzvvvxUPB7J"
             },
             {
                 "artists": [
-                    "Quebonafide"
+                    "White 2115"
                 ],
-                "name": "Dla fanek euforii",
-                "uri": "spotify:album:2cwnTtgVGfNoxyJqVcJ9Va"
+                "link": "https://open.spotify.com/album/4oAZiT8w1qL43rT9LXcDOd",
+                "name": "M\u0142ody Ksi\u0105\u017c\u0119",
+                "uri": "spotify:album:4oAZiT8w1qL43rT9LXcDOd"
             },
             {
                 "artists": [
-                    "Quebonafide"
+                    "White 2115"
                 ],
-                "name": "Dla fan\u00f3w eklektyki",
-                "uri": "spotify:album:1AnVd9GVe111fCU405T4Ta"
+                "link": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm",
+                "name": "Rockstar",
+                "uri": "spotify:album:4WQA0C2nwJvBMTdsjf5JOm"
             }
         ],
         "artist_songs": [
             {
                 "artists": [
-                    "Quebonafide",
-                    "Ka-Meal",
-                    "maszaitsme"
-                ],
-                "name": "Refren troch\u0119 jak Lana Del Rey",
-                "uri": "spotify:album:6ZOivoC0hhmnauIIsyJ9FY"
-            },
-            {
-                "artists": [
+                    "White 2115",
                     "Kinny Zimmer",
-                    "Quebonafide",
-                    "Forxst"
+                    "@atutowy"
                 ],
-                "name": "Benz-Dealer",
-                "uri": "spotify:album:4ObaLvOJSLSG30VjqBL0X4"
+                "link": "https://open.spotify.com/album/2UHVu8wQrtgrQ8NoCSQu9J",
+                "name": "Pierwszy raz",
+                "uri": "spotify:album:2UHVu8wQrtgrQ8NoCSQu9J"
             },
             {
                 "artists": [
-                    "Quebonafide"
+                    "White 2115"
                 ],
-                "name": "UTW\u00d3R Z OKAZJI DW\u00d3CH MILION\u00d3W NA SPOTIFY",
-                "uri": "spotify:album:2ie6CZMlYVZu0JghukyEoq"
+                "link": "https://open.spotify.com/album/3OOvMK5o8BJxryzRtNxYFJ",
+                "name": "RiRi",
+                "uri": "spotify:album:3OOvMK5o8BJxryzRtNxYFJ"
             },
             {
                 "artists": [
-                    "Mata",
-                    "Quebonafide",
-                    "Malik Montana"
+                    "White 2115"
                 ],
-                "name": "Papuga",
-                "uri": "spotify:album:2fqBcou9Ze8cr6lbOfyOHh"
+                "link": "https://open.spotify.com/album/0dEj9U7vpuKBOlkrWlEqfM",
+                "name": "18",
+                "uri": "spotify:album:0dEj9U7vpuKBOlkrWlEqfM"
             },
             {
                 "artists": [
-                    "Tommy Cash",
-                    "Quebonafide"
+                    "2115",
+                    "Bedoes",
+                    "White 2115"
                 ],
-                "name": "Benz-Dealer",
-                "uri": "spotify:album:73wBlH2IUwq5GDBoYspBbR"
+                "link": "https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c",
+                "name": "BEDOESIARA",
+                "uri": "spotify:album:2FnOLu5VGjUZcId983Jn0c"
+            },
+            {
+                "artists": [
+                    "2115",
+                    "Bedoes",
+                    "White 2115"
+                ],
+                "link": "https://open.spotify.com/album/7jpaMrXyirYMgkREyS3mZL",
+                "name": "WI\u0118CEJ DYMU",
+                "uri": "spotify:album:7jpaMrXyirYMgkREyS3mZL"
             }
         ],
         "artist_appears_on": [
@@ -93,171 +99,45 @@
                 "artists": [
                     "Kinny Zimmer"
                 ],
+                "link": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v",
                 "name": "LETNISKO",
                 "uri": "spotify:album:5JHHiO1j42tgSRrhNb6H6v"
             },
             {
                 "appear_type": "album",
                 "artists": [
-                    "Sok\u00f3\u0142"
-                ],
-                "name": "NIC (Deluxe)",
-                "uri": "spotify:album:7nr4cCYdcrW9fLVB5ct5or"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Sok\u00f3\u0142"
-                ],
-                "name": "NIC",
-                "uri": "spotify:album:4OxA5zQTboR4ZzY7tqA6b8"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Mata"
-                ],
-                "name": "M\u0142ody Matczak",
-                "uri": "spotify:album:7vYR7oLh93zb38m880M8bd"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Kukon"
-                ],
-                "name": "Ogrody Mixtape 2",
-                "uri": "spotify:album:0kh2biobfgJsPrfPznAuRN"
-            }
-        ]
-    },
-    {
-        "artist_uri": "spotify:artist:7CJgLPEqiIRuneZSolpawQ",
-        "artist_name": "Taco Hemingway",
-        "artist_album": [
-            {
-                "artists": [
-                    "Taco Hemingway"
-                ],
-                "name": "Europa",
-                "uri": "spotify:album:5clX1R1cMEpaFrbAijtNPi"
-            },
-            {
-                "artists": [
-                    "Taco Hemingway"
-                ],
-                "name": "Jarmark",
-                "uri": "spotify:album:2G3CkSXcjskvCFkvsbEVNp"
-            },
-            {
-                "artists": [
-                    "Taco Hemingway"
-                ],
-                "name": "POCZT\u00d3WKA Z WWA, LATO '19",
-                "uri": "spotify:album:0NswGrMDNxBGq6DwAnIdU1"
-            },
-            {
-                "artists": [
-                    "Taco Hemingway"
-                ],
-                "name": "Caf\u00e9 Belga",
-                "uri": "spotify:album:6d681ZsSudFljWUiS4wGPY"
-            },
-            {
-                "artists": [
-                    "TACONAFIDE",
-                    "Quebonafide",
-                    "Taco Hemingway"
-                ],
-                "name": "0,25 mg",
-                "uri": "spotify:album:1OSThsZztBE3D9TTG7bm0s"
-            }
-        ],
-        "artist_songs": [
-            {
-                "artists": [
-                    "Gedz",
-                    "Taco Hemingway",
-                    "P.A.F.F."
-                ],
-                "name": "Yin Yang (Remix)",
-                "uri": "spotify:album:14rxCdG0J95gcoy59RONzQ"
-            },
-            {
-                "artists": [
-                    "Gedz",
-                    "Taco Hemingway",
-                    "Sokos"
-                ],
-                "name": "Yin Yang",
-                "uri": "spotify:album:1v6URGLCuDKKexNhNEHtMO"
-            },
-            {
-                "artists": [
-                    "Kaz Ba\u0142agane",
-                    "@atutowy",
-                    "Taco Hemingway"
-                ],
-                "name": "Nowe Szklane Domy",
-                "uri": "spotify:album:7GTZV6Y3OBtD3kqmEdOOV5"
-            },
-            {
-                "artists": [
-                    "Taco Hemingway",
-                    "Zeppy Zep",
-                    "Keeko"
-                ],
-                "name": "Michael Essien Birthday Party",
-                "uri": "spotify:album:5f0lWnbqk2hYeK8wdSxXXl"
-            },
-            {
-                "artists": [
-                    "Taco Hemingway",
                     "Lanek"
                 ],
-                "name": "POLSKIE TANGO",
-                "uri": "spotify:album:49fTuWViS4ghyJso7CULya"
-            }
-        ],
-        "artist_appears_on": [
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Oki"
-                ],
-                "name": "PRODUKT47",
-                "uri": "spotify:album:2XfYRBRUaesCsBix9jYEwn"
+                "link": "https://open.spotify.com/album/0p4dp2ioreo7WaZJudIfr5",
+                "name": "EXTRAVAGANZA",
+                "uri": "spotify:album:0p4dp2ioreo7WaZJudIfr5"
             },
             {
                 "appear_type": "album",
                 "artists": [
-                    "Mata"
+                    "SB Maffija"
                 ],
-                "name": "M\u0142ody Matczak",
-                "uri": "spotify:album:7vYR7oLh93zb38m880M8bd"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Rasmentalism"
-                ],
-                "name": "Geniusz (Deluxe)",
-                "uri": "spotify:album:0RxWfpEfYWbew00Qy2niPl"
+                "link": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk",
+                "name": "Hotel Maffija 2",
+                "uri": "spotify:album:27XrvOB16npe8CNDKc0GBk"
             },
             {
                 "appear_type": "single",
                 "artists": [
-                    "Gedz"
+                    "SB Maffija"
                 ],
-                "name": "STAMINA (Suplement)",
-                "uri": "spotify:album:3Qa3yFaISPSdKHkGwsGSfQ"
+                "link": "https://open.spotify.com/album/3mhety6h2PwjicU8mey7a6",
+                "name": "Proste fakty",
+                "uri": "spotify:album:3mhety6h2PwjicU8mey7a6"
             },
             {
-                "appear_type": "album",
+                "appear_type": "single",
                 "artists": [
-                    "Pezet"
+                    "SB Maffija"
                 ],
-                "name": "Muzyka wsp\u00f3\u0142czesna (Extended Edition)",
-                "uri": "spotify:album:1ugQ3D0j2nnfwuIZXShyJn"
+                "link": "https://open.spotify.com/album/7ktyy7rHLdXsSTgUmhlV8t",
+                "name": "Lawenda",
+                "uri": "spotify:album:7ktyy7rHLdXsSTgUmhlV8t"
             }
         ]
     }
