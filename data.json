@@ -1,143 +1,127 @@
 [
     {
-        "artist_uri": "spotify:artist:4nPxrGG7k7aEKmNLsfX4cd",
-        "artist_name": "White 2115",
+        "artist_uri": "spotify:artist:0MIG6gMcQTSvFbKvUwK0id",
+        "artist_name": "Mata",
         "artist_album": [
             {
                 "artists": [
-                    "White 2115"
+                    "Mata"
                 ],
-                "link": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ",
-                "name": "Pretty Boy",
-                "uri": "spotify:album:01S7gAvH21k1qlD2jilmPQ"
+                "link": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd",
+                "image": "https://i.scdn.co/image/ab67616d0000b2739362642da4fe063747230dea",
+                "name": "M\u0142ody Matczak",
+                "uri": "spotify:album:7vYR7oLh93zb38m880M8bd"
             },
             {
                 "artists": [
-                    "Bia\u0142as",
-                    "White 2115"
+                    "Mata"
                 ],
-                "link": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs",
-                "name": "Diamentowy Las",
-                "uri": "spotify:album:6g3muQtUCpAByNLWl4eFRs"
-            },
-            {
-                "artists": [
-                    "White 2115"
-                ],
-                "link": "https://open.spotify.com/album/00sdJjCC3eeyzvvvxUPB7J",
-                "name": "Rockstar: Do zachodu s\u0142o\u0144ca",
-                "uri": "spotify:album:00sdJjCC3eeyzvvvxUPB7J"
-            },
-            {
-                "artists": [
-                    "White 2115"
-                ],
-                "link": "https://open.spotify.com/album/4oAZiT8w1qL43rT9LXcDOd",
-                "name": "M\u0142ody Ksi\u0105\u017c\u0119",
-                "uri": "spotify:album:4oAZiT8w1qL43rT9LXcDOd"
-            },
-            {
-                "artists": [
-                    "White 2115"
-                ],
-                "link": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm",
-                "name": "Rockstar",
-                "uri": "spotify:album:4WQA0C2nwJvBMTdsjf5JOm"
+                "link": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL",
+                "image": "https://i.scdn.co/image/ab67616d0000b27332ad0feefef87d8d8b5ea6f5",
+                "name": "100 dni do matury",
+                "uri": "spotify:album:2XEybHzEROxx8nLUOrtSbL"
             }
         ],
         "artist_songs": [
             {
                 "artists": [
-                    "White 2115",
-                    "Kinny Zimmer",
-                    "@atutowy"
+                    "Mata",
+                    "FUNDACJA 420"
                 ],
-                "link": "https://open.spotify.com/album/2UHVu8wQrtgrQ8NoCSQu9J",
-                "name": "Pierwszy raz",
-                "uri": "spotify:album:2UHVu8wQrtgrQ8NoCSQu9J"
+                "link": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7",
+                "image": "https://i.scdn.co/image/ab67616d0000b273f37cb513a985712309c36228",
+                "name": "PATOPROHIBICJA (28.01.2022)",
+                "uri": "spotify:album:6uc56byB6pbNq0P1irTCn7"
             },
             {
                 "artists": [
-                    "White 2115"
+                    "Mata"
                 ],
-                "link": "https://open.spotify.com/album/3OOvMK5o8BJxryzRtNxYFJ",
-                "name": "RiRi",
-                "uri": "spotify:album:3OOvMK5o8BJxryzRtNxYFJ"
+                "link": "https://open.spotify.com/album/50M0edAviSHj0Owx87mDRv",
+                "image": "https://i.scdn.co/image/ab67616d0000b273f76829662152350ad27e8573",
+                "name": "MC",
+                "uri": "spotify:album:50M0edAviSHj0Owx87mDRv"
             },
             {
                 "artists": [
-                    "White 2115"
+                    "Mata"
                 ],
-                "link": "https://open.spotify.com/album/0dEj9U7vpuKBOlkrWlEqfM",
-                "name": "18",
-                "uri": "spotify:album:0dEj9U7vpuKBOlkrWlEqfM"
+                "link": "https://open.spotify.com/album/3KOE82zPQ3zUnD3zvadbGf",
+                "image": "https://i.scdn.co/image/ab67616d0000b273b7b67b2e61668563ecd658ab",
+                "name": "Szafir",
+                "uri": "spotify:album:3KOE82zPQ3zUnD3zvadbGf"
             },
             {
                 "artists": [
-                    "2115",
-                    "Bedoes",
-                    "White 2115"
+                    "Mata"
                 ],
-                "link": "https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c",
-                "name": "BEDOESIARA",
-                "uri": "spotify:album:2FnOLu5VGjUZcId983Jn0c"
+                "link": "https://open.spotify.com/album/148WF6q5LbFir5WDfQSm7o",
+                "image": "https://i.scdn.co/image/ab67616d0000b2733e7dec13513b7742fdced0a1",
+                "name": "Szmata",
+                "uri": "spotify:album:148WF6q5LbFir5WDfQSm7o"
             },
             {
                 "artists": [
-                    "2115",
-                    "Bedoes",
-                    "White 2115"
+                    "Mata",
+                    "Quebonafide",
+                    "Malik Montana"
                 ],
-                "link": "https://open.spotify.com/album/7jpaMrXyirYMgkREyS3mZL",
-                "name": "WI\u0118CEJ DYMU",
-                "uri": "spotify:album:7jpaMrXyirYMgkREyS3mZL"
+                "link": "https://open.spotify.com/album/2fqBcou9Ze8cr6lbOfyOHh",
+                "image": "https://i.scdn.co/image/ab67616d0000b2735febb45a29d995df166b9215",
+                "name": "Papuga",
+                "uri": "spotify:album:2fqBcou9Ze8cr6lbOfyOHh"
             }
         ],
         "artist_appears_on": [
             {
                 "appear_type": "album",
                 "artists": [
-                    "Kinny Zimmer"
+                    "LAMA"
                 ],
-                "link": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v",
-                "name": "LETNISKO",
-                "uri": "spotify:album:5JHHiO1j42tgSRrhNb6H6v"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "Lanek"
-                ],
-                "link": "https://open.spotify.com/album/0p4dp2ioreo7WaZJudIfr5",
-                "name": "EXTRAVAGANZA",
-                "uri": "spotify:album:0p4dp2ioreo7WaZJudIfr5"
+                "link": "https://open.spotify.com/album/6s255LMx7rOv3Eb2VnkcJx",
+                "image": "https://i.scdn.co/image/ab67616d0000b27318f20810ce2e4ddb4fc534fe",
+                "name": "ARCTURUS",
+                "uri": "spotify:album:6s255LMx7rOv3Eb2VnkcJx"
             },
             {
                 "appear_type": "album",
                 "artists": [
                     "SB Maffija"
                 ],
-                "link": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk",
-                "name": "Hotel Maffija 2",
-                "uri": "spotify:album:27XrvOB16npe8CNDKc0GBk"
+                "link": "https://open.spotify.com/album/2Vh31oPGc5TGegtirjoLi8",
+                "image": "https://i.scdn.co/image/ab67616d0000b273914d331530d1854faeadede2",
+                "name": "Znowu Razem Mixtape",
+                "uri": "spotify:album:2Vh31oPGc5TGegtirjoLi8"
             },
             {
-                "appear_type": "single",
+                "appear_type": "album",
+                "artists": [
+                    "\u017babson"
+                ],
+                "link": "https://open.spotify.com/album/0wQB9uv8pVexo31itgCXxn",
+                "image": "https://i.scdn.co/image/ab67616d0000b273000f0ad2251f85bc7a0b9e55",
+                "name": "Ziomalski Mixtape",
+                "uri": "spotify:album:0wQB9uv8pVexo31itgCXxn"
+            },
+            {
+                "appear_type": "album",
+                "artists": [
+                    "M\u0119skie Granie Orkiestra 2020"
+                ],
+                "link": "https://open.spotify.com/album/4FncHjpF0dgK6QYmtIG9jL",
+                "image": "https://i.scdn.co/image/ab67616d0000b27318801bd174265ebabd604cf4",
+                "name": "M\u0119skie Granie 2020",
+                "uri": "spotify:album:4FncHjpF0dgK6QYmtIG9jL"
+            },
+            {
+                "appear_type": "album",
                 "artists": [
                     "SB Maffija"
                 ],
-                "link": "https://open.spotify.com/album/3mhety6h2PwjicU8mey7a6",
-                "name": "Proste fakty",
-                "uri": "spotify:album:3mhety6h2PwjicU8mey7a6"
-            },
-            {
-                "appear_type": "single",
-                "artists": [
-                    "SB Maffija"
-                ],
-                "link": "https://open.spotify.com/album/7ktyy7rHLdXsSTgUmhlV8t",
-                "name": "Lawenda",
-                "uri": "spotify:album:7ktyy7rHLdXsSTgUmhlV8t"
+                "link": "https://open.spotify.com/album/3FaQOLyX9UA8ZZYTdB0Czq",
+                "image": "https://i.scdn.co/image/ab67616d0000b273a082141b9265295b99c58a48",
+                "name": "Hotel Maffija (Deluxe)",
+                "uri": "spotify:album:3FaQOLyX9UA8ZZYTdB0Czq"
             }
         ]
     }

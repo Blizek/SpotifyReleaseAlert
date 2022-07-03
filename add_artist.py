@@ -25,6 +25,7 @@ def add(uri):
                 artist['name'] for artist in album['artists']
             ],
             'link': album["external_urls"]['spotify'],
+            'image': album['images'][0]['url'],
             'name': album['name'],
             'uri': album['uri']
         }
@@ -37,6 +38,7 @@ def add(uri):
                 artist['name'] for artist in song['artists']
             ],
             'link': song["external_urls"]['spotify'],
+            'image': song['images'][0]['url'],
             'name': song['name'],
             'uri': song['uri']
         }
@@ -50,6 +52,7 @@ def add(uri):
                 artist['name'] for artist in appear_on['artists']
             ],
             'link': appear_on["external_urls"]['spotify'],
+            'image': appear_on['images'][0]['url'],
             'name': appear_on['name'],
             'uri': appear_on['uri']
         }
