@@ -2,127 +2,97 @@
     {
         "artist_uri": "spotify:artist:0MIG6gMcQTSvFbKvUwK0id",
         "artist_name": "Mata",
-        "artist_album": [
-            {
-                "artists": [
-                    "Mata"
-                ],
-                "link": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd",
-                "image": "https://i.scdn.co/image/ab67616d0000b2739362642da4fe063747230dea",
-                "name": "M\u0142ody Matczak",
-                "uri": "spotify:album:7vYR7oLh93zb38m880M8bd"
-            },
-            {
-                "artists": [
-                    "Mata"
-                ],
-                "link": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL",
-                "image": "https://i.scdn.co/image/ab67616d0000b27332ad0feefef87d8d8b5ea6f5",
-                "name": "100 dni do matury",
-                "uri": "spotify:album:2XEybHzEROxx8nLUOrtSbL"
-            }
+        "artist_albums": [
+            "spotify:album:7vYR7oLh93zb38m880M8bd",
+            "spotify:album:2XEybHzEROxx8nLUOrtSbL"
         ],
         "artist_songs": [
-            {
-                "artists": [
-                    "Mata",
-                    "FUNDACJA 420"
-                ],
-                "link": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7",
-                "image": "https://i.scdn.co/image/ab67616d0000b273f37cb513a985712309c36228",
-                "name": "PATOPROHIBICJA (28.01.2022)",
-                "uri": "spotify:album:6uc56byB6pbNq0P1irTCn7"
-            },
-            {
-                "artists": [
-                    "Mata"
-                ],
-                "link": "https://open.spotify.com/album/50M0edAviSHj0Owx87mDRv",
-                "image": "https://i.scdn.co/image/ab67616d0000b273f76829662152350ad27e8573",
-                "name": "MC",
-                "uri": "spotify:album:50M0edAviSHj0Owx87mDRv"
-            },
-            {
-                "artists": [
-                    "Mata"
-                ],
-                "link": "https://open.spotify.com/album/3KOE82zPQ3zUnD3zvadbGf",
-                "image": "https://i.scdn.co/image/ab67616d0000b273b7b67b2e61668563ecd658ab",
-                "name": "Szafir",
-                "uri": "spotify:album:3KOE82zPQ3zUnD3zvadbGf"
-            },
-            {
-                "artists": [
-                    "Mata"
-                ],
-                "link": "https://open.spotify.com/album/148WF6q5LbFir5WDfQSm7o",
-                "image": "https://i.scdn.co/image/ab67616d0000b2733e7dec13513b7742fdced0a1",
-                "name": "Szmata",
-                "uri": "spotify:album:148WF6q5LbFir5WDfQSm7o"
-            },
-            {
-                "artists": [
-                    "Mata",
-                    "Quebonafide",
-                    "Malik Montana"
-                ],
-                "link": "https://open.spotify.com/album/2fqBcou9Ze8cr6lbOfyOHh",
-                "image": "https://i.scdn.co/image/ab67616d0000b2735febb45a29d995df166b9215",
-                "name": "Papuga",
-                "uri": "spotify:album:2fqBcou9Ze8cr6lbOfyOHh"
-            }
+            "spotify:album:6uc56byB6pbNq0P1irTCn7",
+            "spotify:album:50M0edAviSHj0Owx87mDRv",
+            "spotify:album:3KOE82zPQ3zUnD3zvadbGf",
+            "spotify:album:148WF6q5LbFir5WDfQSm7o",
+            "spotify:album:2fqBcou9Ze8cr6lbOfyOHh"
         ],
         "artist_appears_on": [
-            {
-                "appear_type": "album",
-                "artists": [
-                    "LAMA"
-                ],
-                "link": "https://open.spotify.com/album/6s255LMx7rOv3Eb2VnkcJx",
-                "image": "https://i.scdn.co/image/ab67616d0000b27318f20810ce2e4ddb4fc534fe",
-                "name": "ARCTURUS",
-                "uri": "spotify:album:6s255LMx7rOv3Eb2VnkcJx"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "SB Maffija"
-                ],
-                "link": "https://open.spotify.com/album/2Vh31oPGc5TGegtirjoLi8",
-                "image": "https://i.scdn.co/image/ab67616d0000b273914d331530d1854faeadede2",
-                "name": "Znowu Razem Mixtape",
-                "uri": "spotify:album:2Vh31oPGc5TGegtirjoLi8"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "\u017babson"
-                ],
-                "link": "https://open.spotify.com/album/0wQB9uv8pVexo31itgCXxn",
-                "image": "https://i.scdn.co/image/ab67616d0000b273000f0ad2251f85bc7a0b9e55",
-                "name": "Ziomalski Mixtape",
-                "uri": "spotify:album:0wQB9uv8pVexo31itgCXxn"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "M\u0119skie Granie Orkiestra 2020"
-                ],
-                "link": "https://open.spotify.com/album/4FncHjpF0dgK6QYmtIG9jL",
-                "image": "https://i.scdn.co/image/ab67616d0000b27318801bd174265ebabd604cf4",
-                "name": "M\u0119skie Granie 2020",
-                "uri": "spotify:album:4FncHjpF0dgK6QYmtIG9jL"
-            },
-            {
-                "appear_type": "album",
-                "artists": [
-                    "SB Maffija"
-                ],
-                "link": "https://open.spotify.com/album/3FaQOLyX9UA8ZZYTdB0Czq",
-                "image": "https://i.scdn.co/image/ab67616d0000b273a082141b9265295b99c58a48",
-                "name": "Hotel Maffija (Deluxe)",
-                "uri": "spotify:album:3FaQOLyX9UA8ZZYTdB0Czq"
-            }
+            "spotify:album:6s255LMx7rOv3Eb2VnkcJx",
+            "spotify:album:2Vh31oPGc5TGegtirjoLi8",
+            "spotify:album:0wQB9uv8pVexo31itgCXxn",
+            "spotify:album:4FncHjpF0dgK6QYmtIG9jL",
+            "spotify:album:3FaQOLyX9UA8ZZYTdB0Czq"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4nPxrGG7k7aEKmNLsfX4cd",
+        "artist_name": "White 2115",
+        "artist_albums": [
+            "spotify:album:01S7gAvH21k1qlD2jilmPQ",
+            "spotify:album:6g3muQtUCpAByNLWl4eFRs",
+            "spotify:album:00sdJjCC3eeyzvvvxUPB7J",
+            "spotify:album:4oAZiT8w1qL43rT9LXcDOd",
+            "spotify:album:4WQA0C2nwJvBMTdsjf5JOm"
+        ],
+        "artist_songs": [
+            "spotify:album:2UHVu8wQrtgrQ8NoCSQu9J",
+            "spotify:album:3OOvMK5o8BJxryzRtNxYFJ",
+            "spotify:album:0dEj9U7vpuKBOlkrWlEqfM",
+            "spotify:album:2FnOLu5VGjUZcId983Jn0c",
+            "spotify:album:7jpaMrXyirYMgkREyS3mZL"
+        ],
+        "artist_appears_on": [
+            "spotify:album:5JHHiO1j42tgSRrhNb6H6v",
+            "spotify:album:0p4dp2ioreo7WaZJudIfr5",
+            "spotify:album:27XrvOB16npe8CNDKc0GBk",
+            "spotify:album:3mhety6h2PwjicU8mey7a6",
+            "spotify:album:7ktyy7rHLdXsSTgUmhlV8t"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0LX2VNf5w4iOHW1yyIqb74",
+        "artist_name": "Bedoes",
+        "artist_albums": [
+            "spotify:album:32voLjYZbp9m86l0MoSO1J",
+            "spotify:album:3tnrA8DDlYPfRdPxKPAG5O",
+            "spotify:album:0iymtVByyJSutVk2Mj4eSu",
+            "spotify:album:6rWAKiK4PQBGLFgbsX7PsG"
+        ],
+        "artist_songs": [
+            "spotify:album:2FnOLu5VGjUZcId983Jn0c",
+            "spotify:album:7jpaMrXyirYMgkREyS3mZL",
+            "spotify:album:2yCYZ5N5EIpBjAHhu6vswC",
+            "spotify:album:5G9pVGDh8wWRI4utMDhk67",
+            "spotify:album:3JyaNgWzhYld4hdRpF8g7o"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1HlWatPRHfTF1gw0DjMZbG",
+            "spotify:album:0p4dp2ioreo7WaZJudIfr5",
+            "spotify:album:27XrvOB16npe8CNDKc0GBk",
+            "spotify:album:3mhety6h2PwjicU8mey7a6",
+            "spotify:album:35gGuR1CKbPXArYCGaRo24"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:2ufQfSFDFXfMS7MEMzdGZE",
+        "artist_name": "Bia\u0142as",
+        "artist_albums": [
+            "spotify:album:1fxOr9VDdMU7eh6pNqOC2u",
+            "spotify:album:2U5g2dpq7FcAmvJTiTjVmW",
+            "spotify:album:6g3muQtUCpAByNLWl4eFRs",
+            "spotify:album:1J3b7FyAZoURkmsN0N1Wcw",
+            "spotify:album:30OxN3mz0ldW4fYvgCaTr6"
+        ],
+        "artist_songs": [
+            "spotify:album:5EMHDlwYPQHYlNzq6n2ytm",
+            "spotify:album:2l4qvKEMnWj4gS1xeAeRJD",
+            "spotify:album:53H8xnW9CjDrAffFVQ6Npt",
+            "spotify:album:79pjcK2ArBgJH1nKK04K58",
+            "spotify:album:1AsADMOctrJnWtPkEZpVw9"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2ccf19f8bAysRSNLrziawu",
+            "spotify:album:01S7gAvH21k1qlD2jilmPQ",
+            "spotify:album:0p4dp2ioreo7WaZJudIfr5",
+            "spotify:album:76OrvS8V2jjLBuG9qCSSGX",
+            "spotify:album:7riJ8U53nx3hjxW5rf2jq4"
         ]
     }
 ]
