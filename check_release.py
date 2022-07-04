@@ -7,6 +7,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 from converted_artist_data import convert
+from twitter import send_tweet
 
 
 def get_artists():
@@ -61,37 +62,41 @@ def check(artist):
 
     # check if the newest album's uri is different as the newest in database
     # albums in lists are from the newest to the oldest
-    if albums[0]['uri'] != artist['artist_albums'][0]:
+    if len(artist['artist_albums']) == 0 or albums[0]['uri'] != artist['artist_albums'][0]:
         # check from the oldest to the newest response albums if album is in app database
         for album in albums[::-1]:
             if album['uri'] not in artist['artist_albums']:
                 # get all album's artists
                 artists = ", ".join(album_artist['name'] for album_artist in album['artists'])
                 if len(album['artists']) > 1:
-                    print("{0} have just released new album \"{1}\", which you can listen to on Spotify!\n\n{2}".
-                          format(artists, album['name'], album['external_urls']['spotify']))
+                    message = "{0} have just released new album \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                        format(artists, album['name'], album['external_urls']['spotify'])
                 else:
-                    print("{0} has just released new album \"{1}\", which you can listen to on Spotify!\n\n{2}".
-                          format(artists, album['name'], album['external_urls']['spotify']))
+                    message = "{0} has just released new album \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                          format(artists, album['name'], album['external_urls']['spotify'])
+                print(message)
+                send_tweet(album['name'], album['artists'], message, album['images'][0]['url'])
 
     # check if the newest song's uri is different as the newest in database
     # songs in lists are from the newest to the oldest
-    if songs[0]['uri'] != artist['artist_songs'][0]:
+    if len(artist['artist_songs']) == 0 or songs[0]['uri'] != artist['artist_songs'][0]:
         # check from the oldest ot the newest response songs if song is in app database
         for song in songs[::-1]:
             if song['uri'] not in artist['artist_songs']:
                 # get all song's artists
                 artists = ", ".join(song_artist['name'] for song_artist in song['artists'])
                 if len(song['artists']) > 1:
-                    print("{0} have just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".
-                          format(artists, song['name'], song['external_urls']['spotify']))
+                    message = "{0} have just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                          format(artists, song['name'], song['external_urls']['spotify'])
                 else:
-                    print("{0} has just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".
-                          format(artists, song['name'], song['external_urls']['spotify']))
+                    message = "{0} has just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                          format(artists, song['name'], song['external_urls']['spotify'])
+                print(message)
+                send_tweet(song['name'], song['artists'], message, song['images'][0]['url'])
 
     # check if the newest appear on uri is different as the newest in database
     # appears on in lists are from the newest to the oldest
-    if appears_on[0]['uri'] != artist['artist_appears_on'][0]:
+    if len(artist['artist_appears_on']) == 0 or appears_on[0]['uri'] != artist['artist_appears_on'][0]:
         # check from the oldest ot the newest response appears if appear is in app database
         for appear_on in appears_on[::-1]:
             if appear_on['uri'] not in artist['artist_appears_on']:
@@ -100,25 +105,30 @@ def check(artist):
                 # if appear is on song
                 if appear_on['album_type'] == 'single':
                     if len(appear_on['artists']) > 1:
-                        print("{0} have just released new song \"{1}\" featuring {2}, which you can listen to on Spotify!\n\n{3}".
-                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify']))
+                        message = "{0} have just released new song \"{1}\" featuring {2}, which you can listen to on Spotify!\n\n{3}".\
+                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify'])
                     else:
-                        print("{0} has just released new song \"{1}\" featuring {2}, which you can listen to on Spotify!\n\n{3}".
-                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify']))
+                        message = "{0} has just released new song \"{1}\" featuring {2}, which you can listen to on Spotify!\n\n{3}".\
+                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify'])
+                    appear_on['artists'].append({'name': artist['artist_name']})
                 # if appear is on album
                 elif appear_on['album_type'] == 'album':
                     if len(appear_on['artists']) > 1:
-                        print("{0} have just released new album \"{1}\" on which you can find song with {2}. "
-                              "Listen to this album on Spotify!\n\n{3}".
-                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify']))
+                        message = "{0} have just released new album \"{1}\" on which you can find song with {2}. "\
+                              "Listen to this album on Spotify!\n\n{3}".\
+                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify'])
                     else:
-                        print("{0} has just released new album \"{1}\" on which you can find song with {2}. "
-                              "Listen to this album on Spotify!\n\n{3}".
-                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify']))
+                        message = "{0} has just released new album \"{1}\" on which you can find song with {2}. "\
+                              "Listen to this album on Spotify!\n\n{3}".\
+                              format(artists, appear_on['name'], artist["artist_name"], appear_on['external_urls']['spotify'])
+                    appear_on['artists'].append({'name': artist['artist_name']})
                 # if appear is on compilation
                 else:
-                    print("{0} took part in compilation \"{1}\", which you can listen to on Spotify!\n\n{2}".
-                          format(artist['artist_name'], appear_on['name'], appear_on['external_urls']['spotify']))
+                    message = "{0} took part in compilation \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                          format(artist['artist_name'], appear_on['name'], appear_on['external_urls']['spotify'])
+                    appear_on['artists'].append({'name': artist['artist_name']})
+                print(message)
+                send_tweet(appear_on['name'], appear_on['artists'], message, appear_on['images'][0]['url'])
 
     print("{0}'s data refreshed!".format(artist['artist_name']))
 
