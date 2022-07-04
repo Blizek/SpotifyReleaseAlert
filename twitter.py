@@ -22,7 +22,7 @@ def send_tweet(title, artists, message, image):
 
     # creating artists hashtags
     hashtags = " ".join(["#" + artist['name'].replace(" ", "_") for artist in artists])
-    hashtags = '#' + title.replace(" ", "_") + " " + hashtags
+    hashtags = '#Spotify #' + title.replace(" ", "_") + " " + hashtags
 
     # adding hashtags on the bottom of the text
     message += f"\n\n{hashtags}"
