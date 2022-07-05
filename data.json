@@ -476,11 +476,11 @@
         "artist_uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V",
         "artist_name": "Ed Sheeran",
         "artist_albums": [
-            "spotify:album:2KOKQf1xzrAz5Vg0JT6arP",
+            "spotify:album:5PGxLbdxJa0nds8PefyTBf",
+            "spotify:album:3YaqutlXMcNFDIisLpxCA3",
             "spotify:album:4MOKrYo3bMUWjUnSirhNz3",
-            "spotify:album:6wBjbkToXGsKOhNwACySeq",
-            "spotify:album:5y1leoacRWkUaxsoB8Txyq",
-            "spotify:album:62x6Mjq1y9ykESB5UyHcgP"
+            "spotify:album:647ZOjcJ5J7PZpWhkrQCn7",
+            "spotify:album:6wBjbkToXGsKOhNwACySeq"
         ],
         "artist_songs": [
             "spotify:album:1SN5xrofTIKJhnd5QNprAh",
@@ -491,10 +491,10 @@
         ],
         "artist_appears_on": [
             "spotify:album:3Kysq1MhaOqKR7LsSarY5t",
-            "spotify:album:1wR3pjkX6kpADnLEBW7047",
             "spotify:album:6cCxNKJjKuteaBJ92yAi2J",
+            "spotify:album:1wR3pjkX6kpADnLEBW7047",
             "spotify:album:0KDSgK2JeGACvQPiPHyipI",
-            "spotify:album:1qQGj74GDfqPRvIwQIUGs5"
+            "spotify:album:7EwibYmDDr4ZSWMVUhlIdX"
         ]
     },
     {
@@ -517,8 +517,8 @@
         "artist_appears_on": [
             "spotify:album:5bCQxyM1U6TbrSSzPSMNJt",
             "spotify:album:2CurTq5LdGw4uuTrb4lvyu",
+            "spotify:album:0sGfmLTFPo4JpM7Wtdhl6o",
             "spotify:album:1wR3pjkX6kpADnLEBW7047",
-            "spotify:album:6jXF2xbdN3fkzeixf9664N",
             "spotify:album:5ksWYgVcfMdwDrJpuYF47M"
         ]
     },
@@ -574,8 +574,8 @@
             "spotify:album:71OpEL0ZAD5YpOFBFolErW",
             "spotify:album:0JeyP8r2hBxYIoxXv11XiX",
             "spotify:album:0E3wRkztEF32ZdYICXBuBf",
-            "spotify:album:6qCqOI40caiiu8vcldqKDT",
-            "spotify:album:3W04W2HfQ5kVeByxfjbu2C"
+            "spotify:album:3W04W2HfQ5kVeByxfjbu2C",
+            "spotify:album:6qCqOI40caiiu8vcldqKDT"
         ],
         "artist_songs": [
             "spotify:album:1V6HksALLzO5ihpU3YVqJc",
@@ -585,11 +585,11 @@
             "spotify:album:442fbTvlLwlfIggjqKjFhS"
         ],
         "artist_appears_on": [
+            "spotify:album:6iwSfzqushU0sALCp8Fb90",
             "spotify:album:6jXF2xbdN3fkzeixf9664N",
             "spotify:album:21buhOkggBTSj5BwJFNc9L",
             "spotify:album:0KDSgK2JeGACvQPiPHyipI",
-            "spotify:album:6iwSfzqushU0sALCp8Fb90",
-            "spotify:album:7M9oyLQcs7cvdNidQmasJT"
+            "spotify:album:7EwibYmDDr4ZSWMVUhlIdX"
         ]
     },
     {
@@ -636,10 +636,10 @@
         ],
         "artist_appears_on": [
             "spotify:album:1wR3pjkX6kpADnLEBW7047",
+            "spotify:album:6iwSfzqushU0sALCp8Fb90",
+            "spotify:album:4HpKcdt8qKTKafHpJb5Zkf",
             "spotify:album:3gUZ3T4WAlztuFUoE2ae9O",
-            "spotify:album:5WRigl4NdKYBhDnk2DVQrG",
-            "spotify:album:2qR7LC98YlpxkE1ZnZgBaA",
-            "spotify:album:0PBevwc5KNEVXH4GFgxUbd"
+            "spotify:album:5WRigl4NdKYBhDnk2DVQrG"
         ]
     },
     {
@@ -660,11 +660,11 @@
             "spotify:album:2q0oIagEMNrgKGGovSn5Cg"
         ],
         "artist_appears_on": [
-            "spotify:album:7M9oyLQcs7cvdNidQmasJT",
             "spotify:album:3PM2zUAk6sYKy51D5Umr7F",
+            "spotify:album:7M9oyLQcs7cvdNidQmasJT",
             "spotify:album:6oEtpMhqA3IJ6Y4tTSCq95",
             "spotify:album:4oT70msUIByDL8uavfaAcZ",
-            "spotify:album:2fNyP0y4lZKQYeYunnYr4H"
+            "spotify:album:3D3g8BkJiLV50RxYFVElHi"
         ]
     },
     {
@@ -689,7 +689,7 @@
             "spotify:album:3PM2zUAk6sYKy51D5Umr7F",
             "spotify:album:1xxfbLqg1XkZAaiorxmcsn",
             "spotify:album:4oT70msUIByDL8uavfaAcZ",
-            "spotify:album:1pXTmRHs4zczWjiUJ4n4eO"
+            "spotify:album:0QmwQ5o6U0W5HhUU184oBk"
         ]
     },
     {
@@ -753,26 +753,26 @@
             "spotify:album:4dBp8rzdqH9unSndGk6g6o"
         ],
         "artist_songs": [
+            "spotify:album:574iaZA34RiT9rM1F2s2IM",
             "spotify:album:7lbSZjlBsWuXtR3WqsdOSN",
             "spotify:album:1mbwiDXEr8l6mK7o76dqyu",
             "spotify:album:7EZAIhKzfjXbAsL0hrQjGF",
-            "spotify:album:0vS8EETjc2cnCu5j32uxxq",
-            "spotify:album:5WSVBLmTp6Fgjm2Dwyu3vr"
+            "spotify:album:0vS8EETjc2cnCu5j32uxxq"
         ],
         "artist_appears_on": [
-            "spotify:album:40AVXdDgjnSRrWow7z88Dn",
             "spotify:album:6iwSfzqushU0sALCp8Fb90",
+            "spotify:album:40AVXdDgjnSRrWow7z88Dn",
             "spotify:album:1EXvi71QvHcGI4whKKN3t0",
             "spotify:album:6qAfcE869fFbyKo1oO9Zwd",
-            "spotify:album:3UC5w441uZhpdN106z0aAs"
+            "spotify:album:0lR3E89DwR2pmaE2kz4xRu"
         ]
     },
     {
         "artist_uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "artist_name": "David Guetta",
         "artist_albums": [
-            "spotify:album:2Sq9AIsIrad2GygwB6QLPt",
             "spotify:album:5rbJtzuXtpIP0Ykk7ewIit",
+            "spotify:album:2Sq9AIsIrad2GygwB6QLPt",
             "spotify:album:2pdfV2U48rhyEiK1J1ViF1",
             "spotify:album:7bpWEp24oHgUs08ImjakfU",
             "spotify:album:1wVr1C3NaDGx5LB6mVwifr"
@@ -781,8 +781,8 @@
             "spotify:album:69IqzaBTW4Ok0UzGFOJfhb",
             "spotify:album:00fFxFYLWITvdBTrJ9RI6A",
             "spotify:album:34oEpkVLOxth8LDZz5FK2E",
-            "spotify:album:4u0XWZsu9JuffXQyTZkm2r",
-            "spotify:album:3R69AWht6e2vZq7Cg3XGPH"
+            "spotify:album:3R69AWht6e2vZq7Cg3XGPH",
+            "spotify:album:4u0XWZsu9JuffXQyTZkm2r"
         ],
         "artist_appears_on": [
             "spotify:album:6cCxNKJjKuteaBJ92yAi2J",
@@ -810,11 +810,11 @@
             "spotify:album:0f8xygKtxKKNfhl6hffSAd"
         ],
         "artist_appears_on": [
-            "spotify:album:1G0zksJeNkuRBb3PuAPmAo",
             "spotify:album:0sGfmLTFPo4JpM7Wtdhl6o",
+            "spotify:album:1G0zksJeNkuRBb3PuAPmAo",
+            "spotify:album:2Itno9jJP0afMeRunwPMXQ",
             "spotify:album:4petjewvBRnlVshNlV2RGn",
-            "spotify:album:3gUZ3T4WAlztuFUoE2ae9O",
-            "spotify:album:3n8T6DsEjteYHCtqX8zLu1"
+            "spotify:album:3gUZ3T4WAlztuFUoE2ae9O"
         ]
     },
     {
@@ -839,7 +839,7 @@
             "spotify:album:3gUZ3T4WAlztuFUoE2ae9O",
             "spotify:album:1Kst9aD41T5jKOEWwJwNNG",
             "spotify:album:5WRigl4NdKYBhDnk2DVQrG",
-            "spotify:album:3owTw3bMIXgNRx830u2sip"
+            "spotify:album:0PBevwc5KNEVXH4GFgxUbd"
         ]
     },
     {
@@ -939,7 +939,7 @@
             "spotify:album:03yeh5Pq8uaRUb5bgEWj0k",
             "spotify:album:7zGnR0kDz3tOcFKU3MpxTc",
             "spotify:album:1wR3pjkX6kpADnLEBW7047",
-            "spotify:album:0KDSgK2JeGACvQPiPHyipI"
+            "spotify:album:6iwSfzqushU0sALCp8Fb90"
         ]
     },
     {
@@ -965,6 +965,1032 @@
             "spotify:album:7zGnR0kDz3tOcFKU3MpxTc",
             "spotify:album:52EsfLy6mUavZsryA2yMuz",
             "spotify:album:2d6aeRUGgVgDMQ9A0AVlNF"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
+        "artist_name": "BTS",
+        "artist_albums": [
+            "spotify:album:6al2VdKbb6FIz9d7lU7WRB",
+            "spotify:album:6nYfHQnvkvOTNHnOhDT3sr",
+            "spotify:album:1aAjA5rYVUh1JhVIafOmbQ",
+            "spotify:album:1nScVw87kRJiT2bg2Kswhp",
+            "spotify:album:5W1XY5ucNATjTULERvXx9j"
+        ],
+        "artist_songs": [
+            "spotify:album:4LyiYe4wZ6XwzUne79hidF",
+            "spotify:album:3wDWcowIrrWgpRmo2ZvFup",
+            "spotify:album:4cmHvSMDrSRe2sLodew8sV",
+            "spotify:album:4LcW19D6W1nHpvcJV5s2QI",
+            "spotify:album:7eMHMiz2uvtDDMbvKRJxlP"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1typPCwqyXMfFpvDZAyKew",
+            "spotify:album:7hDMgGXdy0x8hDbtOHIS5j",
+            "spotify:album:1JNgNyhdJemzENYXIaZ04z",
+            "spotify:album:2TYSqL67cBuExXQci98QUn",
+            "spotify:album:27vDj62igPyEqMCvXvOx5R"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+        "artist_name": "Billie Eilish",
+        "artist_albums": [
+            "spotify:album:0JGOiO34nwfUdDrD612dOp",
+            "spotify:album:5tzRuO6GP7WRvP3rEOPAO9",
+            "spotify:album:0S0KGZnfBGSIssfF54WSJh"
+        ],
+        "artist_songs": [
+            "spotify:album:2kzPJWrTjVKEYWWhowXLnz",
+            "spotify:album:5lDUpb6zBr4xBh9AGUXYtQ",
+            "spotify:album:2AyexmwyUy1nZfBadyewL7",
+            "spotify:album:3ZuV4xSFJnWDncgMICfFmX",
+            "spotify:album:4E8puNI8tw7cXz6YJkwMew"
+        ],
+        "artist_appears_on": [
+            "spotify:album:7wzI1vCXbWNtyYelP0BnSB",
+            "spotify:album:3N3MFTMN8UvsWgzFwVeGqH",
+            "spotify:album:6z5oZSTy6appiGLvlRQnPf",
+            "spotify:album:4petjewvBRnlVshNlV2RGn",
+            "spotify:album:3n8T6DsEjteYHCtqX8zLu1"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+        "artist_name": "Juice WRLD",
+        "artist_albums": [
+            "spotify:album:1typPCwqyXMfFpvDZAyKew",
+            "spotify:album:7hDMgGXdy0x8hDbtOHIS5j",
+            "spotify:album:7aObAFaIOcczMSDnfXz5z6",
+            "spotify:album:4ZdoMxGE6oQH7hEbld0gVV",
+            "spotify:album:6n9DKpOxwifT5hOXtgLZSL"
+        ],
+        "artist_songs": [
+            "spotify:album:1coECr6aQMAvlebWJCmnPW",
+            "spotify:album:4BUBmfexqfuvnaVT7ZnFiR",
+            "spotify:album:3aOjFnLFyskZUtBsrOvfIc",
+            "spotify:album:5hUFZjxtqYvxm9FGUhHCdE",
+            "spotify:album:5eN3tq5hDUTYfACF50pbXl"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4jcTM6iRlMxlmVy2lUzlUe",
+            "spotify:album:4V2LQjYg8FckfYOiitAJU4",
+            "spotify:album:4petjewvBRnlVshNlV2RGn",
+            "spotify:album:1Kst9aD41T5jKOEWwJwNNG",
+            "spotify:album:7cBCGnq29KFPPcWY3y8i7h"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4",
+        "artist_name": "XXXTENTACION",
+        "artist_albums": [
+            "spotify:album:7vNqlfthayItIbI0Ssmfoa",
+            "spotify:album:3hn46RDrEmoi4XhLjgdNjZ",
+            "spotify:album:5G9uumI5sMNsoYLfIyg6a2",
+            "spotify:album:2c6s84YTwR9cfncPmB9fNW",
+            "spotify:album:4EeDFhIVRxOg4dx7ozSNXa"
+        ],
+        "artist_songs": [
+            "spotify:album:1YA0gAfV91LkDq1DODSCbc",
+            "spotify:album:23Q7W5jYwmLuOhu9ZeGdTd",
+            "spotify:album:0G3uruzIfqEMKmuI8vGZ42",
+            "spotify:album:1f8a8aLfreWLK8lH7t74ws",
+            "spotify:album:0n2Pe7tA6N8hl7Qwo0FawG"
+        ],
+        "artist_appears_on": [
+            "spotify:album:6oEtpMhqA3IJ6Y4tTSCq95",
+            "spotify:album:3D3g8BkJiLV50RxYFVElHi",
+            "spotify:album:2VlWhGKLHH3xI0BylnHDqx",
+            "spotify:album:4jcTM6iRlMxlmVy2lUzlUe",
+            "spotify:album:4JiBlPzkfUAwVTLiuObSkp"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY",
+        "artist_name": "Ozuna",
+        "artist_albums": [
+            "spotify:album:28adqly9V7wm5DFr7hlqtK",
+            "spotify:album:69iuPQsXel3luOSDNF0q2Q",
+            "spotify:album:7f6r6ijWtMJ0QYydwuCYvH",
+            "spotify:album:0SukGZiXMtmsZoxstkBtNR",
+            "spotify:album:4s05NbwGgw5SO42AdsN5Oo"
+        ],
+        "artist_songs": [
+            "spotify:album:0CLFXd0a3YDeP7IPRb6ggh",
+            "spotify:album:1iBXwOCBoWC1LdSxdD0ZlC",
+            "spotify:album:1cdOlSvJDZJdVvXyiSWb8H",
+            "spotify:album:0aMqp2gRJQjhVZmHkuTtfL",
+            "spotify:album:7CSrNfB7tAWOMcvqv8r3rq"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2pfBdekMfDRVf1MfDnwTSv",
+            "spotify:album:4HpKcdt8qKTKafHpJb5Zkf",
+            "spotify:album:19OqDXk7vFlVn9zxcisvSn",
+            "spotify:album:3ieRwC84faCFOCCfvHRuNf",
+            "spotify:album:0aGmJciZEcqLNjCtQNVQf0"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+        "artist_name": "Khalid",
+        "artist_albums": [
+            "spotify:album:5HBwLKK7l3N8fovxDlTBpE",
+            "spotify:album:6BY3nmtdswbEtaXPx46tmc",
+            "spotify:album:6KT8x5oqZJl9CcnM66hddo",
+            "spotify:album:4UNwL1B7JoymNUiTFJa52B",
+            "spotify:album:2Qxc2NJ7yPKVFRWi3llRr2"
+        ],
+        "artist_songs": [
+            "spotify:album:3SBeYxkc3Ce7lanK0f3epk",
+            "spotify:album:7CrDnyaqZVhO6UupmkQiHe",
+            "spotify:album:3ZLZkAJBG98Bg0K8xUEhIn",
+            "spotify:album:4UVpvYlByfqhARos9od1Kc",
+            "spotify:album:7bbWtqbSyq4hJTpc2s1HIC"
+        ],
+        "artist_appears_on": [
+            "spotify:album:7wzI1vCXbWNtyYelP0BnSB",
+            "spotify:album:0HCbRJGrvEyYxMTbqJFQOG",
+            "spotify:album:4EaOJiNzRb6tKStrOzvW7P",
+            "spotify:album:3Smu8Aa56GWYkGMggRhmkH",
+            "spotify:album:3N3MFTMN8UvsWgzFwVeGqH"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
+        "artist_name": "Rihanna",
+        "artist_albums": [
+            "spotify:album:4UlGauD7ROb3YbVOFMgW5u",
+            "spotify:album:4Q3ad90GtI0dxyE5ZishAS",
+            "spotify:album:48i37aZTC1prDr4EcpQeEa",
+            "spotify:album:3p39yDJtXkSw8QLMmB8yyD",
+            "spotify:album:7yjQZX94GxVyqDTehxBejk"
+        ],
+        "artist_songs": [
+            "spotify:album:44tafm4490xYqhfQKvMD4r",
+            "spotify:album:5Ku8vJclbcBKh3f3jwfNHy",
+            "spotify:album:2TKbBIv3QaM46sT9BtHKm1",
+            "spotify:album:3GuMKdjrNX9xQK4nwkznp5",
+            "spotify:album:2xGzVkqqc7CFi74fAoIbAa"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1wR3pjkX6kpADnLEBW7047",
+            "spotify:album:7iRvkL2fnhr6OFEVg1VnY0",
+            "spotify:album:1Ue7S8rViPGn1T5IlIn3IY",
+            "spotify:album:0I9Z6CKQGVSJUSHtnb9bIw",
+            "spotify:album:0wGy05kUh4wyy8U80Bynt5"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
+        "artist_name": "Travis Scott",
+        "artist_albums": [
+            "spotify:album:1Sf8GsXG32t0jNrX11xqWx",
+            "spotify:album:41GuZcammIkupMPKH2OJ6I",
+            "spotify:album:5qeikHFUgeO8f8HXm8k4cA",
+            "spotify:album:6FED8aeieEnUWwQqAO9zT1",
+            "spotify:album:42WVQWuf1teDysXiOupIZt"
+        ],
+        "artist_songs": [
+            "spotify:album:27rslGtWf5WEDhLlG05r12",
+            "spotify:album:4OMcF93S84FIpjaWiRiSiG",
+            "spotify:album:5FB5E1fwFeVqpz2CCzRSve",
+            "spotify:album:2wYozzbtX2LsSeY4P6vAL0",
+            "spotify:album:69EoaGm2iEB3MhWxcUmCfP"
+        ],
+        "artist_appears_on": [
+            "spotify:album:6ulSzlnsk3Jjy86doVOBQu",
+            "spotify:album:1X5JQq17ZeSqityklslmX4",
+            "spotify:album:0dpExYbEx8gaCsbmrKJMWE",
+            "spotify:album:6y8fxn1MiGK1zVMXhr5BCw",
+            "spotify:album:1ailUbKGUaBxpkSd0Mgota"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP",
+        "artist_name": "Maroon 5",
+        "artist_albums": [
+            "spotify:album:5x7JzoE4A3DwwU6FPt8qws",
+            "spotify:album:1pCA38N6MkLlthXtAOvZTU",
+            "spotify:album:2dnLi41uRXC7aNqDmcEc0P",
+            "spotify:album:3mAaCQNqRARBgzS3BFWwH0",
+            "spotify:album:0fe04UycvOyXQD4o3uA7Vo"
+        ],
+        "artist_songs": [
+            "spotify:album:4jGaPN2gEpKciN02ZKRShT",
+            "spotify:album:0ceWdOvpDPHLo4HpQMW4Xi",
+            "spotify:album:2cDt5R89HP8ZCXhNAmZs27",
+            "spotify:album:63rPSO264uRjW1X5E6cWv6",
+            "spotify:album:3tUgqb2jHJYVihvyhfyLRZ"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4petjewvBRnlVshNlV2RGn",
+            "spotify:album:3EPWfwEemLw5FsZ5dvyDJQ",
+            "spotify:album:3gUZ3T4WAlztuFUoE2ae9O",
+            "spotify:album:2eTo9wZdOcYeAGiqU78BZn",
+            "spotify:album:2lpJyWIrAQVs8MVJZTXx1V"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr",
+        "artist_name": "Shawn Mendes",
+        "artist_albums": [
+            "spotify:album:2sDPTkswUWDLtZYiOzubTe",
+            "spotify:album:01haNCctw4EUPl8xUHVhdl",
+            "spotify:album:3Lp4JKk2ZgNkybMRS3eZR5",
+            "spotify:album:0xzScN8P3hQAz3BT3YYX5w",
+            "spotify:album:2VP96XdMOKTXefI8Nui23s"
+        ],
+        "artist_songs": [
+            "spotify:album:3xlMYD2dXpt1EF0xQIA2lj",
+            "spotify:album:4EGVr9mSwFPoqvDMkiahJp",
+            "spotify:album:3sDud6BapENewYxlL8VH8r",
+            "spotify:album:4nProAxFavzKkbaRQ2Otyk",
+            "spotify:album:00R62QqtlwSpAuwkS5kxB3"
+        ],
+        "artist_appears_on": [
+            "spotify:album:066MQdv51lrqHbDuH4hlkY",
+            "spotify:album:4petjewvBRnlVshNlV2RGn",
+            "spotify:album:3uTguVWK8DqNSwnycGqyn4",
+            "spotify:album:3n8T6DsEjteYHCtqX8zLu1",
+            "spotify:album:47Mgjqn7leuLfQsKdTW84K"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m",
+        "artist_name": "Daddy Yankee",
+        "artist_albums": [
+            "spotify:album:3rlJCPz7s7bTifG57wjFpt",
+            "spotify:album:4VRebE7OlgjE896hS92gjo",
+            "spotify:album:0CDLQ6cxLj0UydmFX394VL",
+            "spotify:album:0N091826fEGbqVB1NnKguC",
+            "spotify:album:3xtMlD79fXUjZ92e1c4TnX"
+        ],
+        "artist_songs": [
+            "spotify:album:39bS0KqiLzhJvitnTt7Y4W",
+            "spotify:album:2ASgyx6vWb2VXZAxywMaBn",
+            "spotify:album:52zVHKWwUOlAkUJJDHz0AF",
+            "spotify:album:6HemabiQkjzBGrAIr8ynE4",
+            "spotify:album:6SsTT8rdqOsmYP9jAFAXFr"
+        ],
+        "artist_appears_on": [
+            "spotify:album:0aGmJciZEcqLNjCtQNVQf0",
+            "spotify:album:1AlWvntWqXXL54JqHqogwv",
+            "spotify:album:0ZSIU0brwXI2rP6cU4GB1A",
+            "spotify:album:34KlHjc4CsubOUWNBufeik",
+            "spotify:album:1znNDe8Z8XTzIq06pMocnx"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+        "artist_name": "Kendrick Lamar",
+        "artist_albums": [
+            "spotify:album:79ONNoS4M9tfIA1mYLBYVX",
+            "spotify:album:3OqPkYVDzHKistrI9exrjR",
+            "spotify:album:3pLdWdkj83EYfDN6H2N8MR",
+            "spotify:album:4Kp52vGJe5oVi0EXNhSDKy",
+            "spotify:album:5sOSzueqgCiVpXNcpd6QpL"
+        ],
+        "artist_songs": [
+            "spotify:album:5XClh485CRBIIKaNXWWt7Z",
+            "spotify:album:3pnyFb8zP3ZMyx4hJRsQDk",
+            "spotify:album:3HqmX8hGcbbQZODgayNEYx",
+            "spotify:album:5Qt0TADJeZ9Uu6CMJZKyYU",
+            "spotify:album:0itierEc1U3I8yIi4TtnuT"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1G0zksJeNkuRBb3PuAPmAo",
+            "spotify:album:7iRvkL2fnhr6OFEVg1VnY0",
+            "spotify:album:1xxfbLqg1XkZAaiorxmcsn",
+            "spotify:album:2YM1eS49AgivJh4Q8KrGpO",
+            "spotify:album:4bDHBevkEE4IjFNKQei2y9"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI",
+        "artist_name": "Sam Smith",
+        "artist_albums": [
+            "spotify:album:0yURloAyqmXCjQ1rmX0ltA",
+            "spotify:album:77jibxIYj4UGL2QAaN4j37",
+            "spotify:album:5XCBX16KNYsAe7V5hQV9mC",
+            "spotify:album:0mXuESYo2Gd1quvVflixyi",
+            "spotify:album:3XftSbguntyRTBQaGItmfK"
+        ],
+        "artist_songs": [
+            "spotify:album:3zTbB7N63JZkS6I6zuooMs",
+            "spotify:album:54hbTBFAvJmCFtsradjeny",
+            "spotify:album:59NkDiHvjWqXHHIxzoWAUe",
+            "spotify:album:6Anzto8x93tfDjDghGqHQf",
+            "spotify:album:30Nf68hbXjDvoacY0K5fFB"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2CurTq5LdGw4uuTrb4lvyu",
+            "spotify:album:5ksWYgVcfMdwDrJpuYF47M",
+            "spotify:album:4UysvDl060LEmTaiI7K7TI",
+            "spotify:album:1DHfh1dtTiFZBFQzhbmIxs",
+            "spotify:album:080uT1bpKUnH0OJfCXe9uQ"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+        "artist_name": "Queen",
+        "artist_albums": [
+            "spotify:album:7zhwCAUQETk5MXUJBYqc0C",
+            "spotify:album:4UAsVsprIJu1OU9qkLwTMe",
+            "spotify:album:6i6folBtxKV28WX3msQ4FE",
+            "spotify:album:3BHe7LbW5yRjyqXNJ3A6mW",
+            "spotify:album:6SbrIpVsaJ5wgCQtMMwVR2"
+        ],
+        "artist_songs": [
+            "spotify:album:5cEeW4T95NSMaNS1H59y8c",
+            "spotify:album:7Fh5P1ZQ7ixOpTIZqOFESg",
+            "spotify:album:78pursbUp0GhNMqz8iQp6S",
+            "spotify:album:6S5vYASV8XPwVlraajOO3M",
+            "spotify:album:0QiR20evt3lReALGAi3UjE"
+        ],
+        "artist_appears_on": [
+            "spotify:album:5ksWYgVcfMdwDrJpuYF47M",
+            "spotify:album:6K4wOVcRExEG0AuIQvv4nY",
+            "spotify:album:2lpJyWIrAQVs8MVJZTXx1V",
+            "spotify:album:450dyBY7OpgVeSEDro0Fy0",
+            "spotify:album:4RcJhq7CQaakxovDwDEa4c"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+        "artist_name": "The Chainsmokers",
+        "artist_albums": [
+            "spotify:album:6lZXf2zysA8254dmpzvrhw",
+            "spotify:album:2IRmdXQtVBxUdicuQfSaSB",
+            "spotify:album:1CxCEPIZbaE28qUDW4wN0t",
+            "spotify:album:3cbcpRK1paF6lAxd16cmIE",
+            "spotify:album:01GR4NL5O5CZM51k0aejKD"
+        ],
+        "artist_songs": [
+            "spotify:album:2V0KZMNQwStdyMfVykhOt3",
+            "spotify:album:0DoX9KWwhLtJQHUZyYtRPB",
+            "spotify:album:7prx1EAmK2zsdvABzohj6p",
+            "spotify:album:4iheJNVeRsjwypaKGNTbzJ",
+            "spotify:album:0KHCJzK0qQtlpz4B5oit6C"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2d6aeRUGgVgDMQ9A0AVlNF",
+            "spotify:album:1wyAtXKBt2CHMk6ZjNo7SM",
+            "spotify:album:0x6edSutUU27OH3FxN8mh1",
+            "spotify:album:7oB13oPNWPePcRVRpYsWHo",
+            "spotify:album:5ORFZrSuaMxzv1rlDrItmo"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+        "artist_name": "Future",
+        "artist_albums": [
+            "spotify:album:6ViO9Wx6dWzeUq6DmGTaHl",
+            "spotify:album:6tE9Dnp2zInFij4jKssysL",
+            "spotify:album:6uyk3u95ibBvEKYBUeLVLg",
+            "spotify:album:2RhQb6lyiOVIH0IV1KVmLu",
+            "spotify:album:4WgEUAbA3elrKKvTh1jjM3"
+        ],
+        "artist_songs": [
+            "spotify:album:2pj2wbzFFzIYaOg2wuOK2Z",
+            "spotify:album:0juWDSIC6XcturbHEKulUV",
+            "spotify:album:27rslGtWf5WEDhLlG05r12",
+            "spotify:album:4OMcF93S84FIpjaWiRiSiG",
+            "spotify:album:6dfL9bdRB7ACOlf9EJpcfT"
+        ],
+        "artist_appears_on": [
+            "spotify:album:7wzI1vCXbWNtyYelP0BnSB",
+            "spotify:album:4ePq280jPLzy5FR0Z1yQW2",
+            "spotify:album:306tWIiNDJXQF2N22Vo7AN",
+            "spotify:album:1xxfbLqg1XkZAaiorxmcsn",
+            "spotify:album:2VlWhGKLHH3xI0BylnHDqx"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq",
+        "artist_name": "One Direction",
+        "artist_albums": [
+            "spotify:album:1gMxiQQSg5zeu4htBosASY",
+            "spotify:album:4gCNyS7pidfK3rKWhB3JOY",
+            "spotify:album:7p1fX8aUySrBdx4WSYspOu",
+            "spotify:album:2sWX3HYnZjPZ9MrH6MFsBt",
+            "spotify:album:6cunQQ7YZisYOoiFu2ywIq"
+        ],
+        "artist_songs": [
+            "spotify:album:4k4apMN5EYs7S2q83BsXyR",
+            "spotify:album:7slbkjkfIPufuEa858735n",
+            "spotify:album:3n2nA5YdK8OKujeHIqIlAd",
+            "spotify:album:5VX4SyOXpLW7d0jBGW6AP2",
+            "spotify:album:0HXHGZtqWNWoHO2NNfMZd8"
+        ],
+        "artist_appears_on": [
+            "spotify:album:0fViaME7X1KzQ18dIJEenz",
+            "spotify:album:1ifYWRO0U68MdItc0AgGvD",
+            "spotify:album:2TYSqL67cBuExXQci98QUn",
+            "spotify:album:1OnZtyBrtRWORQR46Bife5",
+            "spotify:album:7Dsx1Wlh2aUJa0p4Ozdo8S"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z",
+        "artist_name": "Chris Brown",
+        "artist_albums": [
+            "spotify:album:31U6s6obQrBLTqyvqfqzlM",
+            "spotify:album:5kfM4GlfOj2PdcvcRglN86",
+            "spotify:album:7fZKtzZAsfH0kzeTivu5TG",
+            "spotify:album:4ZfPehLCNr9bxpugRRiUyM",
+            "spotify:album:3okhA6w5uau6ZNhnVpwVww"
+        ],
+        "artist_songs": [
+            "spotify:album:0K9iZw2jLgsJ2qmrvXkPwN",
+            "spotify:album:07RUpdI1EjmqrB1TlTJ0bm",
+            "spotify:album:0zqhnUWEm6yJRdDAV1sz3d",
+            "spotify:album:3tW2vGd9sCAML9II3VC8yK",
+            "spotify:album:4FxRQd3V9SNXEmhsYhhgIS"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4HpKcdt8qKTKafHpJb5Zkf",
+            "spotify:album:1AlWvntWqXXL54JqHqogwv",
+            "spotify:album:1hGMK9WRLTUZFlndYvuFPh",
+            "spotify:album:2d6aeRUGgVgDMQ9A0AVlNF",
+            "spotify:album:3BAb4GB2fBteasT9ZjbA4Q"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m",
+        "artist_name": "Beyonc\u00e9",
+        "artist_albums": [
+            "spotify:album:7kUuNU2LRmr9XbwLHXU9UZ",
+            "spotify:album:46356QHIb3lRX1M7SLydKF",
+            "spotify:album:552zi1M53PQAX5OH4FIdTx",
+            "spotify:album:35S1JCj5paIfElT2GODl6x",
+            "spotify:album:4tyEy1BUd2ZMgT3qP70T3F"
+        ],
+        "artist_songs": [
+            "spotify:album:5JgCaA43ECaGeqbPEo6WUP",
+            "spotify:album:5a73HUmrKIebjmafM1QuFS",
+            "spotify:album:3MJxH055n52Rbm8RLlpJcN",
+            "spotify:album:42hhqILrwMqJI7De7VtKiK",
+            "spotify:album:6M4VOF1ExBRii1x20Pk0GR"
+        ],
+        "artist_appears_on": [
+            "spotify:album:3LHe1BsZZVZ5m7Mw4FxxPy",
+            "spotify:album:0IiJRUqN4DY8BgxVaM2phR",
+            "spotify:album:23SohF27qHAmZUzPYjdUzJ",
+            "spotify:album:4yfKN60btNMwY16LKsRUy8",
+            "spotify:album:4vNCnWemuEvxLg0HgAEbvU"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5",
+        "artist_name": "J. Cole",
+        "artist_albums": [
+            "spotify:album:3tFjhFPqGhhLrCULnPu7Wy",
+            "spotify:album:6ueapn70DCoyhUa9P5azXA",
+            "spotify:album:4JAvwK4APPArjIsOdGoJXX",
+            "spotify:album:7amgMBFiedsknMot03NgQ4",
+            "spotify:album:5PerfGh9Smd6XjwkxpmL4V"
+        ],
+        "artist_songs": [
+            "spotify:album:5rIHQjM7xy35RYx9E3XaqS",
+            "spotify:album:2osFcisvwrxtGiI2tzsEM1",
+            "spotify:album:3TsYjPFN8qCxcYWHL3DtL8",
+            "spotify:album:3omdZCIzC3oaxHglvQN5v6",
+            "spotify:album:1YKdJEzlhd5rsq03k7eWmM"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4ePq280jPLzy5FR0Z1yQW2",
+            "spotify:album:306tWIiNDJXQF2N22Vo7AN",
+            "spotify:album:1pXTmRHs4zczWjiUJ4n4eO",
+            "spotify:album:1HJVdmfUfbwOkZUlmE3q8B",
+            "spotify:album:1m5zV7Mqtv7iHBGu6yoH1K"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+        "artist_name": "Lady Gaga",
+        "artist_albums": [
+            "spotify:album:3tjIKRAPBy5Qu4z8F5HmBz",
+            "spotify:album:6hBQkPnq5u1BwZncSEDEgs",
+            "spotify:album:3OevODyllQCrhudfLLnV3y",
+            "spotify:album:6Yf9kML4wT3opmXhTUIfk7",
+            "spotify:album:05c49JgPmL4Uz2ZeqRx5SP"
+        ],
+        "artist_songs": [
+            "spotify:album:4o7oZoaZrwElXdNXfBXsqe",
+            "spotify:album:2sTMGRR7N6AwnpFJssGeUs",
+            "spotify:album:25eMUZJOY6nhsIZl9D5WUb",
+            "spotify:album:1hdxjlrPl1jYXEuezfUayL",
+            "spotify:album:6y1MSmjTqlF2ZTH6O2WLCn"
+        ],
+        "artist_appears_on": [
+            "spotify:album:3EPWfwEemLw5FsZ5dvyDJQ",
+            "spotify:album:6pHGguXBzRsWwJLRcyGReU",
+            "spotify:album:50GWghayTrE2X5JkTVuk5w",
+            "spotify:album:6rMJ0G3guoUS7WYxB30m9Q",
+            "spotify:album:5oM5fgKoliAOrCqq4NRXMT"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh",
+        "artist_name": "Nicki Minaj",
+        "artist_albums": [
+            "spotify:album:2upw5IrzeqKApIQZyx5o6r",
+            "spotify:album:6zA5X3CQ5rgLKhTobyV5Id",
+            "spotify:album:769d73BOUdQoDssmEE9Q4F",
+            "spotify:album:4Rh57STD18rbjXbBrx2X65",
+            "spotify:album:2acDkDTWdNFie1HjcFa4Ny"
+        ],
+        "artist_songs": [
+            "spotify:album:5IfknrZnkcbBcT7KQuDZXI",
+            "spotify:album:7ntiFX9CASiTGADhPIGlVe",
+            "spotify:album:0UiZQvEgPpnPV6fuvmWTKf",
+            "spotify:album:07aMKfkSdi11ETUey6xQZi",
+            "spotify:album:5cs7xv0RHTRhw9S7vw529n"
+        ],
+        "artist_appears_on": [
+            "spotify:album:3UC5w441uZhpdN106z0aAs",
+            "spotify:album:5g30E37Wviw5AneFbnuC5Y",
+            "spotify:album:6oEtpMhqA3IJ6Y4tTSCq95",
+            "spotify:album:4oT70msUIByDL8uavfaAcZ",
+            "spotify:album:7m0a5Ye33BID0zSFXHBwnh"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4dpARuHxo51G3z768sgnrY",
+        "artist_name": "Adele",
+        "artist_albums": [
+            "spotify:album:21jF5jlMtzo94wbxmJ18aa",
+            "spotify:album:3AvPX1B1HiFROvYjLb5Qwi",
+            "spotify:album:6TVfiWmo8KtflUAmkK9gGF",
+            "spotify:album:2DAh6Er0J8AxZDu6W1pjAW",
+            "spotify:album:5duyQokC4FMcWPYTV9Gpf9"
+        ],
+        "artist_songs": [
+            "spotify:album:224jZ4sUX7OhAuMwaxp86S",
+            "spotify:album:1uT2pOgyFOXic7AyGCRCwx",
+            "spotify:album:6ZilQfkkSA2zY4jeEVygjW",
+            "spotify:album:4wrmR6foH3E5mv5pKtfi49",
+            "spotify:album:1qAXQcW5Q4yeTQ3Qw4gdRs"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1DoLxtFdDteDEvpZp0XLzx",
+            "spotify:album:7lAJCXpncFo1B8ifxEKSwR",
+            "spotify:album:3D9vUf511saEHLua6NcOLw",
+            "spotify:album:0TWZh4CgXyEhMVyl1ti3IE",
+            "spotify:album:1SB9SD66SM04dm8wZdLatY"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:2oBcbbUQy8Md3FYXifyPTF",
+        "artist_name": "ConKi",
+        "artist_albums": [],
+        "artist_songs": [
+            "spotify:album:3B9HRVHtayXJJQIJqIrGI1",
+            "spotify:album:0DlPHwdBmCld20UI4uLTPv",
+            "spotify:album:30SvtoSPCbrJMr9mgjiyj6",
+            "spotify:album:0zqTX5w7jPt1dCchIFtVPR",
+            "spotify:album:5pnjNZGtnD1q9fXgUnUREM"
+        ],
+        "artist_appears_on": [
+            "spotify:album:3vJgIdfUMXgM4xGog3KAeB",
+            "spotify:album:4te47etss1l1rEcqABJHH3",
+            "spotify:album:1wIEPZ4fgSjPOESKmXAV7q",
+            "spotify:album:4giuvvxwMicNL8r2Cu1eRE",
+            "spotify:album:4MNkiBUc5wEvmzCQ8JefVg"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:5GwdnlZaSwKpHmjcAijATP",
+        "artist_name": "Smolasty",
+        "artist_albums": [
+            "spotify:album:2J4B9ie4ttDYk3OHMg3orR",
+            "spotify:album:55fYQvCMWCbZA2uCp1v1Qh",
+            "spotify:album:50neih37CvuPZQjvSSQAu0",
+            "spotify:album:7IFsd6sq5zCum5oQfFjgHs",
+            "spotify:album:6LeNOUEN4BfqCkTyWgqHGY"
+        ],
+        "artist_songs": [
+            "spotify:album:7ev2BtFyL6h0hBOU5igPyb",
+            "spotify:album:2SwEmJJ6Ya4gFWxbSWAwZz",
+            "spotify:album:0u8qKpspSORd4jHcehm9d5",
+            "spotify:album:7MmclUpuZfHzFfRSvsoqCZ",
+            "spotify:album:4dcgq4s53OxOlHwZw40HU3"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4zUBo9Iqm8wOyPXzrEIX3O",
+            "spotify:album:5WaTljmbrdYR2fL9tRlOM3",
+            "spotify:album:7M2UE7lLhvKYE5BWDy17s2",
+            "spotify:album:23sqCMS31p5kusZIH1uCB1",
+            "spotify:album:7o7HtUkmzj0TNFCBmoRwZr"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0tdKRrbItnLj40yUFi23jx",
+        "artist_name": "Daria Zawia\u0142ow",
+        "artist_albums": [
+            "spotify:album:3HzwI3Iu0ybrHssUfj3FRJ",
+            "spotify:album:7A05mgWmC734PHRiiFCYeD",
+            "spotify:album:3GMRl8xmzrZJMy5H4jBgtA",
+            "spotify:album:2NfzXoutbPLTkjt6JkYNIH",
+            "spotify:album:4h6AUTJMuuCUJGCumhRI0p"
+        ],
+        "artist_songs": [
+            "spotify:album:6Z4z16WYtVc62mvDsLcfOT",
+            "spotify:album:6LgHPxZRcD4rLJBhTcnbI4",
+            "spotify:album:779XHhge9YnJPeqhBExedu",
+            "spotify:album:2ic3eJZGU3nIuMvNa3Nw7P",
+            "spotify:album:6gP8QsXMTqkledPkrVIGJP"
+        ],
+        "artist_appears_on": [
+            "spotify:album:7G9ImTT4M1vC44tkVgtdQz",
+            "spotify:album:1an7kS5I0MnVqhROpzEBW7",
+            "spotify:album:6WDQJY44Z5quXFfsdRWMSV",
+            "spotify:album:5f4FAuha5oSS12nR3XYBn0",
+            "spotify:album:3XkczuFZf25A1YkxzRxBPa"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4CrDEHL7ysNabeYvL3xjUX",
+        "artist_name": "Skytech",
+        "artist_albums": [],
+        "artist_songs": [
+            "spotify:album:4ghpm2rx3q0M4Nz3L42XmQ",
+            "spotify:album:5Pm8jJBgEDWGcNqNe4bAWD",
+            "spotify:album:0BEYib2ZX9FZ4YZWIcxMsZ",
+            "spotify:album:3KqxRSn4aI3QAsfDupkFcU",
+            "spotify:album:66XJTG24mRmmeSRLXzrPIX"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2Wp4Zdo504hRdWVRYTHvEK",
+            "spotify:album:5JDuoSUawI1hto3pkbvyVS",
+            "spotify:album:0igrK5KcB3dOVx0fgNJRjP",
+            "spotify:album:0ALA4dIkkYKP9Kx9sjNJPa",
+            "spotify:album:3vtLmYOFdyKa0vIqb8yDzv"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:5XGkLMcwitYFdwroktQs7o",
+        "artist_name": "Vito Bambino",
+        "artist_albums": [
+            "spotify:album:4Y7ZdOKUYBA5D8rAYI1Egh"
+        ],
+        "artist_songs": [
+            "spotify:album:1o3CD2gw4sO4fNKUiEMauq",
+            "spotify:album:1t6hDH52vtCaxZrVgc9yTr",
+            "spotify:album:3D1CaXQftmCQmRWWMnFv3O",
+            "spotify:album:6Cq5c2BvynrB2ZIS6lDs3f",
+            "spotify:album:7pwW4ajeJcgL1NkzgDq7dX"
+        ],
+        "artist_appears_on": [
+            "spotify:album:7G9ImTT4M1vC44tkVgtdQz",
+            "spotify:album:1atmxX8ZAt0NtJ9TulMTMz",
+            "spotify:album:2RQlDuzLfDzU4CmfJQRyDR",
+            "spotify:album:5hQ14UjSWO819ouBGgJyM8",
+            "spotify:album:7mmlCBoaS9dONkxrrYulIh"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:53l3yjX8ITilPIlCRsVKEB",
+        "artist_name": "Kwiat Jab\u0142oni",
+        "artist_albums": [
+            "spotify:album:1juZOm0UhWeidkRCBENKIe",
+            "spotify:album:25APdRb3BZAYqRnjexRqCD",
+            "spotify:album:4UoeVXO8tQkAhBabOH5Pga"
+        ],
+        "artist_songs": [
+            "spotify:album:5oZ3NaFtgF2exTBzrXQ8Pl",
+            "spotify:album:0DNh1flJav6FYwdep81NBR",
+            "spotify:album:4TY9tdVle0NaToD9VYQwvX",
+            "spotify:album:0ZkmfLgxFtOgIJvnyANDvb",
+            "spotify:album:2l345ETbwpMTgEAuXcyoPf"
+        ],
+        "artist_appears_on": [
+            "spotify:album:1HlWatPRHfTF1gw0DjMZbG",
+            "spotify:album:3grcR6yhx7gFwlQRTYH4sp",
+            "spotify:album:7G9ImTT4M1vC44tkVgtdQz",
+            "spotify:album:1UnMQb4cKpsLRRla07YI9G",
+            "spotify:album:5f4FAuha5oSS12nR3XYBn0"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:5IuugmUXbSoEUqwwUA7Fxt",
+        "artist_name": "EMDI",
+        "artist_albums": [],
+        "artist_songs": [
+            "spotify:album:0GSxFx1iNeLAFczGCmsdMk",
+            "spotify:album:7dJ7NP0kxSJrKagvSnNlYV",
+            "spotify:album:2AHFoE6tiBHOqZm0aHJ4NU",
+            "spotify:album:7IgRqsM7OBXJWXPhhyf3tw",
+            "spotify:album:2YSU2FQntR3uQQuPqOeCVb"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2jDupTAA3z1wf5uzNILt7v",
+            "spotify:album:4BzKcQnMN8iiseLzuDUkw7",
+            "spotify:album:5VyLy6WvJTwMO5k1dJCv7x",
+            "spotify:album:3Q8MWoZsASPKnXvr8EJy3k",
+            "spotify:album:5lBJ4q2RdmAQTrLBjRoKfz"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:4lS1f07YGBEKA9ai638UbU",
+        "artist_name": "MASNY BEN",
+        "artist_albums": [],
+        "artist_songs": [
+            "spotify:album:4XTXF4tITQIz64oGJZ8Ctb",
+            "spotify:album:01BPNzKOEdBKurgbyLIrei",
+            "spotify:album:7a4PhoMew1CHbLWbIwSf6A",
+            "spotify:album:3eejvm9X17uuCloqeGMb3M",
+            "spotify:album:2Z2goAUBtvOVhdykvrLJnE"
+        ],
+        "artist_appears_on": [
+            "spotify:album:6iiNhUsuFIJOM5rc3DMO0y",
+            "spotify:album:7bPOmqpNy4BMsKS1YcYwNG"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6HdxibJzoNkDUUDHagx3Ko",
+        "artist_name": "francis",
+        "artist_albums": [],
+        "artist_songs": [
+            "spotify:album:2bg2N5YGQ3rAVIdWE1rlTM",
+            "spotify:album:6QIlgTmVSmNOaJ4ey5N5T5",
+            "spotify:album:3mrmNoOPNyntBP8ojpmGqU",
+            "spotify:album:5jOJRyBMhro6R5zew8D2R2",
+            "spotify:album:6Ef7Sl3GoLtarKcoAZEiMZ"
+        ],
+        "artist_appears_on": [
+            "spotify:album:6HFlpGs0TiNuCl3RZAWFH3",
+            "spotify:album:35sF7apF2IeJq7RDRT3WZC",
+            "spotify:album:6s6xU2GQCElEekW1d566Ri",
+            "spotify:album:27XrvOB16npe8CNDKc0GBk",
+            "spotify:album:6cxLXtAhbK4IIA0qK4kTj4"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:7CJgLPEqiIRuneZSolpawQ",
+        "artist_name": "Taco Hemingway",
+        "artist_albums": [
+            "spotify:album:5clX1R1cMEpaFrbAijtNPi",
+            "spotify:album:2G3CkSXcjskvCFkvsbEVNp",
+            "spotify:album:0NswGrMDNxBGq6DwAnIdU1",
+            "spotify:album:6d681ZsSudFljWUiS4wGPY",
+            "spotify:album:1OSThsZztBE3D9TTG7bm0s"
+        ],
+        "artist_songs": [
+            "spotify:album:14rxCdG0J95gcoy59RONzQ",
+            "spotify:album:1v6URGLCuDKKexNhNEHtMO",
+            "spotify:album:7GTZV6Y3OBtD3kqmEdOOV5",
+            "spotify:album:5f0lWnbqk2hYeK8wdSxXXl",
+            "spotify:album:49fTuWViS4ghyJso7CULya"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2XfYRBRUaesCsBix9jYEwn",
+            "spotify:album:7vYR7oLh93zb38m880M8bd",
+            "spotify:album:0RxWfpEfYWbew00Qy2niPl",
+            "spotify:album:3Qa3yFaISPSdKHkGwsGSfQ",
+            "spotify:album:1ugQ3D0j2nnfwuIZXShyJn"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:1T4HxOYolAEb5PadIVKdWZ",
+        "artist_name": "Gibbs",
+        "artist_albums": [
+            "spotify:album:4EVJNFb0HA1qRH9SBqvZX1",
+            "spotify:album:4uxD1b9je0iDbdY1BMamMZ",
+            "spotify:album:10Z8ed8qphWZXISFAF4QHv",
+            "spotify:album:26yIZygeZvXKbS1WUqg6an",
+            "spotify:album:3pKqsJ3sqSyP9gRYoGNwif"
+        ],
+        "artist_songs": [
+            "spotify:album:5dPrjZEoRy2AeX3KyGrHNS",
+            "spotify:album:0oCWwAD1XzR219h3uda6KK",
+            "spotify:album:4KXRwTkcyimXTSqcHMYq2e",
+            "spotify:album:0odjHZtTSbusHWh5wsplDy",
+            "spotify:album:2ptp5eC2lnDlUWgtnkpfjg"
+        ],
+        "artist_appears_on": [
+            "spotify:album:0Kvz5JaFdP7G7l8KkGGyiE",
+            "spotify:album:4j204S0n7m7QhxCCG50Lpy",
+            "spotify:album:3oBxAn8ix57GrR46KjDV4H",
+            "spotify:album:42rsvQViNnbODl83b6AoMe",
+            "spotify:album:7Hqk98iTe61ju9BNHPvzVX"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0WDJa0qnagyOnMaiD26wht",
+        "artist_name": "Kubi Producent",
+        "artist_albums": [
+            "spotify:album:10OyWWrqfFObBm34b2f1r6",
+            "spotify:album:0ldxi1impJhx7Hx8390p7j",
+            "spotify:album:2SYoVgjmUEYmzwP42lROTx",
+            "spotify:album:4yF5B0GFw2xqeuv7pIMmyS",
+            "spotify:album:0iymtVByyJSutVk2Mj4eSu"
+        ],
+        "artist_songs": [
+            "spotify:album:28USBDzNN2baQJoOxc36UB",
+            "spotify:album:27kx8IlI2tZ5yu6UDx3DES",
+            "spotify:album:0KYZSDLKyjfRl3Suuq42RL",
+            "spotify:album:4TeFWMLtXa71mGEO2XLVUB",
+            "spotify:album:5MVDqQnVFwzQO18EEaDAwk"
+        ],
+        "artist_appears_on": [
+            "spotify:album:0msLBh7Jo7cFkvTrigflxi",
+            "spotify:album:6ul2UQRyHbMBxWi5JjC9vr",
+            "spotify:album:3mhety6h2PwjicU8mey7a6",
+            "spotify:album:76Tg6vW5sCt2x6vLawvHsc",
+            "spotify:album:7vYR7oLh93zb38m880M8bd"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:19zuiWthJYU6FCqnV4mJYC",
+        "artist_name": "Kinny Zimmer",
+        "artist_albums": [
+            "spotify:album:5JHHiO1j42tgSRrhNb6H6v"
+        ],
+        "artist_songs": [
+            "spotify:album:2UHVu8wQrtgrQ8NoCSQu9J",
+            "spotify:album:2UFQSYJVmAmD5Syj4urJ32",
+            "spotify:album:3Tkhe88GUd78Dw1KD4HfQV",
+            "spotify:album:7IStkgbkCECOCSB7Iqtweu",
+            "spotify:album:1w3jyAuoyK11CSl7N0sMKj"
+        ],
+        "artist_appears_on": [
+            "spotify:album:01S7gAvH21k1qlD2jilmPQ",
+            "spotify:album:0p4dp2ioreo7WaZJudIfr5",
+            "spotify:album:6s6xU2GQCElEekW1d566Ri",
+            "spotify:album:7riJ8U53nx3hjxW5rf2jq4",
+            "spotify:album:27XrvOB16npe8CNDKc0GBk"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6DAQjwwMGZ9QgqHhIkU7H0",
+        "artist_name": "Sentino",
+        "artist_albums": [
+            "spotify:album:7bPOmqpNy4BMsKS1YcYwNG",
+            "spotify:album:0kFsF8QMOTj8ZkHaiF1G5C",
+            "spotify:album:6XZKV30Sc4E9sD1EvDDhjW",
+            "spotify:album:5OhxjivCNj7iuhPu5ft2ic",
+            "spotify:album:63uhgRE6XEB4ONrZUCRGmR"
+        ],
+        "artist_songs": [
+            "spotify:album:2HHjmpZMKUslktr2I0XjXf",
+            "spotify:album:4CLbl4VqadjMK5qwqGrfno",
+            "spotify:album:3eejvm9X17uuCloqeGMb3M",
+            "spotify:album:6ZoIRjwXRGIpU9qNCIM9Yy",
+            "spotify:album:4czFaJribvawZarheLEJJO"
+        ],
+        "artist_appears_on": [
+            "spotify:album:6QRurGLbJAbClRq2qiDLox",
+            "spotify:album:3gHyjloFdeODOHI8ywdbJP",
+            "spotify:album:2C51dJe6uMsfM6jNfuGrUV",
+            "spotify:album:6uu80y7SVXkWnorXIawZPE",
+            "spotify:album:25jHH4yqNywV1oWtrujwPB"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:16TsNPlesuA1R9kPLS6nta",
+        "artist_name": "Favst",
+        "artist_albums": [
+            "spotify:album:4EVJNFb0HA1qRH9SBqvZX1",
+            "spotify:album:0bC9F6e7UYfL2G3ul6tuA6"
+        ],
+        "artist_songs": [
+            "spotify:album:2ptp5eC2lnDlUWgtnkpfjg",
+            "spotify:album:2BwNRDKNQtq1eBpmv6o8oQ",
+            "spotify:album:39mnFieA4HnurU0fN2eDvb",
+            "spotify:album:4AB9Xg5G9tx4Gf6XbGeo2H",
+            "spotify:album:1qYlBYklXiXXO7DwPzoJZg"
+        ],
+        "artist_appears_on": [
+            "spotify:album:4j204S0n7m7QhxCCG50Lpy",
+            "spotify:album:3f0ZzyEdv2hWYYAMbxKPQk",
+            "spotify:album:7e3wNMTsFJV9VU8itJiKiy",
+            "spotify:album:3ViPmvdY44JQay6R7Jqd2X",
+            "spotify:album:6GcM5HznvOx8e2hGIpaQ8y"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:3OFZwEYEAKMEmUheZ8TKso",
+        "artist_name": "Magiera",
+        "artist_albums": [
+            "spotify:album:1IMtEvRCSm8GF5wk3036Zb",
+            "spotify:album:22xlnUjZiJsmRrxWzrGD4N",
+            "spotify:album:17xxBnLmFDnZkADXJ6av5z",
+            "spotify:album:1WITmR9hAtA7JJb53LAn4u",
+            "spotify:album:07OwLGt7KHbKfBsey69P75"
+        ],
+        "artist_songs": [
+            "spotify:album:17EC0r6Kg5jVyRwZB6YFjE",
+            "spotify:album:6V2J0bn4gllXc0GfxFGIsn",
+            "spotify:album:1eBi3JMGl2TYfaOSm0UAoV",
+            "spotify:album:5vBxgArGVnb6wFC3FiDJGc",
+            "spotify:album:5h5E0bwdodOpWsictbJHAQ"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2XfYRBRUaesCsBix9jYEwn",
+            "spotify:album:200lPROfEbJM1kfxXs4aBV",
+            "spotify:album:015HEg07ZYiSKZhl12zuXy",
+            "spotify:album:2C5T73QwFAKs3W82TxulzK",
+            "spotify:album:7nr4cCYdcrW9fLVB5ct5or"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:0Wi2fADbhwXlPUWxBmzo99",
+        "artist_name": "Szpaku",
+        "artist_albums": [
+            "spotify:album:0msLBh7Jo7cFkvTrigflxi",
+            "spotify:album:0JhcYsknxkTlIsIdQsgW21",
+            "spotify:album:2SYoVgjmUEYmzwP42lROTx",
+            "spotify:album:78duhRoWreyItCXjRRaUIr",
+            "spotify:album:3tBF2iWltpyzfIv70CTcDb"
+        ],
+        "artist_songs": [
+            "spotify:album:5S8f7aJyGjSAce5OA9OoaX",
+            "spotify:album:6f5exUw2PSP5aIVikkSWsr",
+            "spotify:album:7IStkgbkCECOCSB7Iqtweu",
+            "spotify:album:7anUiwvOezlsrCWsOkSTsx",
+            "spotify:album:24vmXvyLmuKtDdNEOKYEEs"
+        ],
+        "artist_appears_on": [
+            "spotify:album:5JHHiO1j42tgSRrhNb6H6v",
+            "spotify:album:1fPxT4KxJeVlaJE58FslN8",
+            "spotify:album:4jYXCwiIrr18L06VZjiidT",
+            "spotify:album:4kh5cY9Wy4a7vZHMUPe2Mz",
+            "spotify:album:61Gip9lLERpNpV727Z5obT"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:3U5Oag04Yl2WnvPULOlsMD",
+        "artist_name": "Kukon",
+        "artist_albums": [
+            "spotify:album:0Kvz5JaFdP7G7l8KkGGyiE",
+            "spotify:album:1an7kS5I0MnVqhROpzEBW7",
+            "spotify:album:1Ygk47YphDLdNZiB2FfVgi",
+            "spotify:album:0kh2biobfgJsPrfPznAuRN",
+            "spotify:album:1vvUz3Y3awtPiUkIWvJpEa"
+        ],
+        "artist_songs": [
+            "spotify:album:2RzzR7iwoTuYKpXCb9ePu6",
+            "spotify:album:1ijR8No8DJuWwZK6T86Dog",
+            "spotify:album:2ic3eJZGU3nIuMvNa3Nw7P",
+            "spotify:album:7sB2hZKo4wiqXAeBoEWbi8",
+            "spotify:album:5QYPV0PSVnaHxord7IyA25"
+        ],
+        "artist_appears_on": [
+            "spotify:album:3uZw82Y7hVZPtJXwYIJ2Tj",
+            "spotify:album:727M8Q0icITKgqAn1r3nt9",
+            "spotify:album:22xlnUjZiJsmRrxWzrGD4N",
+            "spotify:album:4OcwyBu6BZ5RA26SOQIh8D",
+            "spotify:album:7JngXIehmQ0QTB8XnlAQi3"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:6QfFTZJHFSe9Xyes6DkAli",
+        "artist_name": "Reto",
+        "artist_albums": [
+            "spotify:album:1RuqnTqTsvbDqzBKq7UpyJ",
+            "spotify:album:68vOoh6kzluqI6XpnOqX4H",
+            "spotify:album:4FDs0EKmcJlEAVyGcx2bFg",
+            "spotify:album:3e586rivlx33keBMpjFORV",
+            "spotify:album:5UyDHSDUXYqHDFPu77h1Wm"
+        ],
+        "artist_songs": [
+            "spotify:album:54dOztJog6IgsWfzNELsox",
+            "spotify:album:1AsADMOctrJnWtPkEZpVw9",
+            "spotify:album:54a1eWGhq3bkfln6MuHeeb",
+            "spotify:album:6vPfzQpRRRPzUYpRFOK7cb",
+            "spotify:album:6rqcJvQOVd4tcT5gJtSEiB"
+        ],
+        "artist_appears_on": [
+            "spotify:album:2XJnq34wwzdwh7pi0g2IyM",
+            "spotify:album:2U5g2dpq7FcAmvJTiTjVmW",
+            "spotify:album:70bB1bM9TOFtms9D0a8TGD",
+            "spotify:album:7o7HtUkmzj0TNFCBmoRwZr",
+            "spotify:album:30v0I4fPyB9xVKvBDzlEt5"
+        ]
+    },
+    {
+        "artist_uri": "spotify:artist:43yekIowVCHkR6TGGg9gSp",
+        "artist_name": "Jan-Rapowanie",
+        "artist_albums": [
+            "spotify:album:6s6xU2GQCElEekW1d566Ri",
+            "spotify:album:2IwUMMR9RGNY1VhK24kb2G",
+            "spotify:album:40s5bwMReqc0SbBXCxHmdK",
+            "spotify:album:1TVBLBM3uEWbalXuc5e5aZ"
+        ],
+        "artist_songs": [
+            "spotify:album:4fFEVT8cGAPCN99Fzwk6Hs",
+            "spotify:album:7wyLfqGJ1c3cDovIKspHQ5",
+            "spotify:album:0nqaOZZdbBOC0X3NTGiTfh",
+            "spotify:album:1fxYmqRVRqjAHgvDuiHJ70",
+            "spotify:album:3oABI3kcwvR9x1A0m6Na2u"
+        ],
+        "artist_appears_on": [
+            "spotify:album:27jR8kcGY0dCC9S3Ilt1s2",
+            "spotify:album:6ul2UQRyHbMBxWi5JjC9vr",
+            "spotify:album:27XrvOB16npe8CNDKc0GBk",
+            "spotify:album:35gGuR1CKbPXArYCGaRo24",
+            "spotify:album:7otFmfFJrK6QYO3Hqkbc25"
         ]
     }
 ]
