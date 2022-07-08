@@ -84,12 +84,20 @@ def check(artist):
             if song['uri'] not in artist['artist_songs']:
                 # get all song's artists
                 artists = ", ".join(song_artist['name'] for song_artist in song['artists'])
-                if len(song['artists']) > 1:
-                    message = "{0} have just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
-                          format(artists, song['name'], song['external_urls']['spotify'])
+                if song['total_tracks'] == 1:
+                    if len(song['artists']) > 1:
+                        message = "{0} have just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                              format(artists, song['name'], song['external_urls']['spotify'])
+                    else:
+                        message = "{0} has just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                              format(artists, song['name'], song['external_urls']['spotify'])
                 else:
-                    message = "{0} has just released new song \"{1}\", which you can listen to on Spotify!\n\n{2}".\
-                          format(artists, song['name'], song['external_urls']['spotify'])
+                    if len(song['artists']) > 1:
+                        message = "{0} have just released new EP \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                              format(artists, song['name'], song['external_urls']['spotify'])
+                    else:
+                        message = "{0} has just released new EP \"{1}\", which you can listen to on Spotify!\n\n{2}".\
+                              format(artists, song['name'], song['external_urls']['spotify'])
                 print(message)
                 send_tweet(song['name'], song['artists'], message, song['images'][0]['url'])
 
