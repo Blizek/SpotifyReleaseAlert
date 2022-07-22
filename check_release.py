@@ -74,7 +74,8 @@ def check(artist):
                     message = "{0} has just released new album \"{1}\", which you can listen to on Spotify!\n\n{2}".\
                           format(artists, album['name'], album['external_urls']['spotify'])
                 print(message)
-                send_tweet(album['name'], album['artists'], message, album['images'][0]['url'])
+                send_tweet(album['name'], album['artists'], message, album['images'][0]['url'],
+                           album['external_urls']['spotify'], album['release_date'])
 
     # check if the newest song's uri is different as the newest in database
     # songs in lists are from the newest to the oldest
@@ -99,7 +100,8 @@ def check(artist):
                         message = "{0} has just released new EP \"{1}\", which you can listen to on Spotify!\n\n{2}".\
                               format(artists, song['name'], song['external_urls']['spotify'])
                 print(message)
-                send_tweet(song['name'], song['artists'], message, song['images'][0]['url'])
+                send_tweet(song['name'], song['artists'], message, song['images'][0]['url'],
+                           song['external_urls']['spotify'], song['release_date'])
 
     print("{0}'s data refreshed!".format(artist['artist_name']))
 
